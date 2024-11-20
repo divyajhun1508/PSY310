@@ -1,0 +1,1206 @@
+24.0270 	WARNING 	/Library/Fonts/FontsFree-Net-Anitha.ttf doesn't have valid font family name
+24.1667 	WARNING 	/Library/Fonts/FontsFree-Net-Anitha.ttf doesn't have valid font family name
+54.9812 	INFO 	Loaded monitor calibration from ['2024_08_05 14:42']
+55.2968 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x139603ee0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x139603e80>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x139603cd0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1396944f0>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+55.2968 	EXP 	window1: backgroundImage = ''
+55.2969 	EXP 	window1: backgroundFit = 'none'
+55.2972 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x139602770>
+55.2974 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x139602770>
+55.3004 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x139602770>
+55.3013 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x139602770>
+55.3444 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x139602770>
+55.3446 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x139602770>
+55.3454 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x139602770>
+55.3462 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x139602770>
+55.3611 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+55.3611 	EXP 	window1: recordFrameIntervals = False
+55.7655 	EXP 	window1: recordFrameIntervals = True
+55.9944 	WARNING 	t of last frame was 26.36ms (=1/37)
+56.5645 	EXP 	Screen (0) actual frame rate measured at 84.09Hz
+56.5646 	EXP 	window1: recordFrameIntervals = False
+56.5668 	EXP 	window1: mouseVisible = False
+60.7195 	INFO 	keyboard.Keyboard is using iohub backend.
+60.7196 	INFO 	keyboard.Keyboard is using iohub backend.
+60.7196 	EXP 	DelayDiscountingExperiment: status = STARTED
+60.7200 	EXP 	window1: mouseVisible = False
+60.7254 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+60.7257 	EXP 	window1: mouseVisible = False
+60.7360 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0170 	EXP 	Imported discounting.xlsx as conditions, 7 conditions, 3 params
+0.0183 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0713 	EXP 	text: height = 0.05
+0.0713 	EXP 	text: height = 0.05
+0.0713 	EXP 	text: height = 0.05
+0.0713 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+0.0713 	EXP 	fixation: autoDraw = True
+1.0159 	INFO 	Keyboard events cleared
+1.0148 	EXP 	text: autoDraw = True
+1.0755 	EXP 	fixation: autoDraw = False
+5.6843 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+5.7026 	DATA 	Keypress: l
+5.7097 	EXP 	fixation: autoDraw = False
+5.7097 	EXP 	text: autoDraw = False
+5.7097 	EXP 	text: height = 0.05
+5.7097 	EXP 	text: height = 0.05
+5.7097 	EXP 	text: height = 0.05
+5.7097 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+5.7097 	EXP 	fixation: autoDraw = True
+6.6835 	INFO 	Keyboard events cleared
+6.6826 	EXP 	text: autoDraw = True
+6.6992 	EXP 	fixation: autoDraw = False
+9.3289 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+9.3424 	DATA 	Keypress: l
+9.3500 	EXP 	fixation: autoDraw = False
+9.3500 	EXP 	text: autoDraw = False
+9.3500 	EXP 	text: height = 0.05
+9.3500 	EXP 	text: height = 0.05
+9.3500 	EXP 	text: height = 0.05
+9.3500 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+9.3500 	EXP 	fixation: autoDraw = True
+10.3270 	INFO 	Keyboard events cleared
+10.3261 	EXP 	text: autoDraw = True
+10.3452 	EXP 	fixation: autoDraw = False
+11.5449 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+11.5533 	DATA 	Keypress: t
+11.5617 	EXP 	fixation: autoDraw = False
+11.5617 	EXP 	text: autoDraw = False
+11.5617 	EXP 	text: height = 0.05
+11.5617 	EXP 	text: height = 0.05
+11.5617 	EXP 	text: height = 0.05
+11.5617 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+11.5617 	EXP 	fixation: autoDraw = True
+12.5430 	INFO 	Keyboard events cleared
+12.5423 	EXP 	text: autoDraw = True
+12.5597 	EXP 	fixation: autoDraw = False
+13.2130 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+13.2221 	DATA 	Keypress: l
+13.2300 	EXP 	fixation: autoDraw = False
+13.2300 	EXP 	text: autoDraw = False
+13.2300 	EXP 	text: height = 0.05
+13.2300 	EXP 	text: height = 0.05
+13.2300 	EXP 	text: height = 0.05
+13.2300 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+13.2300 	EXP 	fixation: autoDraw = True
+14.2090 	INFO 	Keyboard events cleared
+14.2084 	EXP 	text: autoDraw = True
+14.2251 	EXP 	fixation: autoDraw = False
+16.2717 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+16.2803 	DATA 	Keypress: t
+16.2865 	EXP 	fixation: autoDraw = False
+16.2865 	EXP 	text: autoDraw = False
+16.2865 	EXP 	text: height = 0.05
+16.2865 	EXP 	text: height = 0.05
+16.2865 	EXP 	text: height = 0.05
+16.2865 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+16.2865 	EXP 	fixation: autoDraw = True
+17.2672 	INFO 	Keyboard events cleared
+17.2662 	EXP 	text: autoDraw = True
+17.2863 	EXP 	fixation: autoDraw = False
+18.1117 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+18.1207 	DATA 	Keypress: l
+18.1285 	EXP 	fixation: autoDraw = False
+18.1285 	EXP 	text: autoDraw = False
+18.1285 	EXP 	text: height = 0.05
+18.1285 	EXP 	text: height = 0.05
+18.1285 	EXP 	text: height = 0.05
+18.1285 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+18.1285 	EXP 	fixation: autoDraw = True
+19.1102 	INFO 	Keyboard events cleared
+19.1093 	EXP 	text: autoDraw = True
+19.1422 	EXP 	fixation: autoDraw = False
+21.8965 	EXP 	New trial (rep=1, index=0): <Trial 7 (0 in rep 1) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 7, 'thisTrialN': 0, 'thisRepN': 1}>
+21.9057 	DATA 	Keypress: l
+21.9133 	EXP 	fixation: autoDraw = False
+21.9133 	EXP 	text: autoDraw = False
+21.9133 	EXP 	text: height = 0.05
+21.9133 	EXP 	text: height = 0.05
+21.9133 	EXP 	text: height = 0.05
+21.9133 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+21.9133 	EXP 	fixation: autoDraw = True
+22.8936 	INFO 	Keyboard events cleared
+22.8928 	EXP 	text: autoDraw = True
+22.9103 	EXP 	fixation: autoDraw = False
+23.6995 	DATA 	Keypress: l
+23.7089 	EXP 	New trial (rep=1, index=1): <Trial 8 (1 in rep 1) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 8, 'thisTrialN': 1, 'thisRepN': 1}>
+23.7182 	EXP 	fixation: autoDraw = False
+23.7182 	EXP 	text: autoDraw = False
+23.7182 	EXP 	text: height = 0.05
+23.7182 	EXP 	text: height = 0.05
+23.7182 	EXP 	text: height = 0.05
+23.7182 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+23.7182 	EXP 	fixation: autoDraw = True
+24.7019 	INFO 	Keyboard events cleared
+24.7005 	EXP 	text: autoDraw = True
+24.7257 	EXP 	fixation: autoDraw = False
+25.6195 	EXP 	New trial (rep=1, index=2): <Trial 9 (2 in rep 1) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 9, 'thisTrialN': 2, 'thisRepN': 1}>
+25.6277 	DATA 	Keypress: t
+25.6338 	EXP 	fixation: autoDraw = False
+25.6338 	EXP 	text: autoDraw = False
+25.6338 	EXP 	text: height = 0.05
+25.6338 	EXP 	text: height = 0.05
+25.6338 	EXP 	text: height = 0.05
+25.6338 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+25.6338 	EXP 	fixation: autoDraw = True
+26.6205 	INFO 	Keyboard events cleared
+26.6194 	EXP 	text: autoDraw = True
+26.6285 	EXP 	fixation: autoDraw = False
+27.9514 	EXP 	New trial (rep=1, index=3): <Trial 10 (3 in rep 1) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 10, 'thisTrialN': 3, 'thisRepN': 1}>
+27.9580 	DATA 	Keypress: t
+27.9641 	EXP 	fixation: autoDraw = False
+27.9641 	EXP 	text: autoDraw = False
+27.9641 	EXP 	text: height = 0.05
+27.9641 	EXP 	text: height = 0.05
+27.9641 	EXP 	text: height = 0.05
+27.9641 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+27.9641 	EXP 	fixation: autoDraw = True
+28.9500 	INFO 	Keyboard events cleared
+28.9491 	EXP 	text: autoDraw = True
+28.9582 	EXP 	fixation: autoDraw = False
+30.1533 	EXP 	New trial (rep=1, index=4): <Trial 11 (4 in rep 1) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 11, 'thisTrialN': 4, 'thisRepN': 1}>
+30.1620 	DATA 	Keypress: t
+30.1682 	EXP 	fixation: autoDraw = False
+30.1682 	EXP 	text: autoDraw = False
+30.1682 	EXP 	text: height = 0.05
+30.1682 	EXP 	text: height = 0.05
+30.1682 	EXP 	text: height = 0.05
+30.1682 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+30.1682 	EXP 	fixation: autoDraw = True
+31.1505 	INFO 	Keyboard events cleared
+31.1496 	EXP 	text: autoDraw = True
+31.1667 	EXP 	fixation: autoDraw = False
+31.8623 	EXP 	New trial (rep=1, index=5): <Trial 12 (5 in rep 1) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 12, 'thisTrialN': 5, 'thisRepN': 1}>
+31.8702 	DATA 	Keypress: l
+31.8786 	EXP 	fixation: autoDraw = False
+31.8786 	EXP 	text: autoDraw = False
+31.8786 	EXP 	text: height = 0.05
+31.8786 	EXP 	text: height = 0.05
+31.8786 	EXP 	text: height = 0.05
+31.8786 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+31.8786 	EXP 	fixation: autoDraw = True
+32.8599 	INFO 	Keyboard events cleared
+32.8589 	EXP 	text: autoDraw = True
+32.8787 	EXP 	fixation: autoDraw = False
+33.6277 	EXP 	New trial (rep=1, index=6): <Trial 13 (6 in rep 1) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 13, 'thisTrialN': 6, 'thisRepN': 1}>
+33.6375 	DATA 	Keypress: t
+33.6449 	EXP 	fixation: autoDraw = False
+33.6449 	EXP 	text: autoDraw = False
+33.6449 	EXP 	text: height = 0.05
+33.6449 	EXP 	text: height = 0.05
+33.6449 	EXP 	text: height = 0.05
+33.6449 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+33.6449 	EXP 	fixation: autoDraw = True
+34.6260 	INFO 	Keyboard events cleared
+34.6252 	EXP 	text: autoDraw = True
+34.6425 	EXP 	fixation: autoDraw = False
+35.1806 	EXP 	New trial (rep=2, index=0): <Trial 14 (0 in rep 2) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 14, 'thisTrialN': 0, 'thisRepN': 2}>
+35.1898 	DATA 	Keypress: l
+35.1965 	EXP 	fixation: autoDraw = False
+35.1965 	EXP 	text: autoDraw = False
+35.1965 	EXP 	text: height = 0.05
+35.1965 	EXP 	text: height = 0.05
+35.1965 	EXP 	text: height = 0.05
+35.1965 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+35.1965 	EXP 	fixation: autoDraw = True
+36.1763 	INFO 	Keyboard events cleared
+36.1754 	EXP 	text: autoDraw = True
+36.1943 	EXP 	fixation: autoDraw = False
+37.2952 	EXP 	New trial (rep=2, index=1): <Trial 15 (1 in rep 2) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 15, 'thisTrialN': 1, 'thisRepN': 2}>
+37.3033 	DATA 	Keypress: l
+37.3116 	EXP 	fixation: autoDraw = False
+37.3116 	EXP 	text: autoDraw = False
+37.3116 	EXP 	text: height = 0.05
+37.3116 	EXP 	text: height = 0.05
+37.3116 	EXP 	text: height = 0.05
+37.3116 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+37.3116 	EXP 	fixation: autoDraw = True
+38.2926 	INFO 	Keyboard events cleared
+38.2919 	EXP 	text: autoDraw = True
+38.3092 	EXP 	fixation: autoDraw = False
+39.1482 	EXP 	New trial (rep=2, index=2): <Trial 16 (2 in rep 2) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 16, 'thisTrialN': 2, 'thisRepN': 2}>
+39.1573 	DATA 	Keypress: l
+39.1634 	EXP 	fixation: autoDraw = False
+39.1634 	EXP 	text: autoDraw = False
+39.1634 	EXP 	text: height = 0.05
+39.1634 	EXP 	text: height = 0.05
+39.1634 	EXP 	text: height = 0.05
+39.1634 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+39.1634 	EXP 	fixation: autoDraw = True
+40.1423 	INFO 	Keyboard events cleared
+40.1417 	EXP 	text: autoDraw = True
+40.1595 	EXP 	fixation: autoDraw = False
+40.8460 	EXP 	New trial (rep=2, index=3): <Trial 17 (3 in rep 2) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 17, 'thisTrialN': 3, 'thisRepN': 2}>
+40.8548 	DATA 	Keypress: l
+40.8623 	EXP 	fixation: autoDraw = False
+40.8623 	EXP 	text: autoDraw = False
+40.8623 	EXP 	text: height = 0.05
+40.8623 	EXP 	text: height = 0.05
+40.8623 	EXP 	text: height = 0.05
+40.8623 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+40.8623 	EXP 	fixation: autoDraw = True
+41.8425 	INFO 	Keyboard events cleared
+41.8418 	EXP 	text: autoDraw = True
+41.8615 	EXP 	fixation: autoDraw = False
+42.5785 	EXP 	New trial (rep=2, index=4): <Trial 18 (4 in rep 2) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 18, 'thisTrialN': 4, 'thisRepN': 2}>
+42.5865 	DATA 	Keypress: t
+42.5948 	EXP 	fixation: autoDraw = False
+42.5948 	EXP 	text: autoDraw = False
+42.5948 	EXP 	text: height = 0.05
+42.5948 	EXP 	text: height = 0.05
+42.5948 	EXP 	text: height = 0.05
+42.5948 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+42.5948 	EXP 	fixation: autoDraw = True
+43.5925 	INFO 	Keyboard events cleared
+43.5912 	EXP 	text: autoDraw = True
+43.6083 	EXP 	fixation: autoDraw = False
+44.3971 	DATA 	Keypress: t
+44.4054 	EXP 	New trial (rep=2, index=5): <Trial 19 (5 in rep 2) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 19, 'thisTrialN': 5, 'thisRepN': 2}>
+44.4161 	EXP 	fixation: autoDraw = False
+44.4161 	EXP 	text: autoDraw = False
+44.4161 	EXP 	text: height = 0.05
+44.4161 	EXP 	text: height = 0.05
+44.4161 	EXP 	text: height = 0.05
+44.4161 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+44.4161 	EXP 	fixation: autoDraw = True
+45.4016 	INFO 	Keyboard events cleared
+45.4003 	EXP 	text: autoDraw = True
+45.4131 	EXP 	fixation: autoDraw = False
+46.3613 	EXP 	New trial (rep=2, index=6): <Trial 20 (6 in rep 2) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 20, 'thisTrialN': 6, 'thisRepN': 2}>
+46.3691 	DATA 	Keypress: t
+46.3764 	EXP 	fixation: autoDraw = False
+46.3764 	EXP 	text: autoDraw = False
+46.3764 	EXP 	text: height = 0.05
+46.3764 	EXP 	text: height = 0.05
+46.3764 	EXP 	text: height = 0.05
+46.3764 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+46.3764 	EXP 	fixation: autoDraw = True
+47.3588 	INFO 	Keyboard events cleared
+47.3580 	EXP 	text: autoDraw = True
+47.3912 	EXP 	fixation: autoDraw = False
+49.9452 	EXP 	New trial (rep=3, index=0): <Trial 21 (0 in rep 3) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 21, 'thisTrialN': 0, 'thisRepN': 3}>
+49.9527 	DATA 	Keypress: l
+49.9609 	EXP 	fixation: autoDraw = False
+49.9609 	EXP 	text: autoDraw = False
+49.9609 	EXP 	text: height = 0.05
+49.9609 	EXP 	text: height = 0.05
+49.9609 	EXP 	text: height = 0.05
+49.9609 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+49.9609 	EXP 	fixation: autoDraw = True
+50.9423 	INFO 	Keyboard events cleared
+50.9415 	EXP 	text: autoDraw = True
+50.9748 	EXP 	fixation: autoDraw = False
+51.5035 	EXP 	New trial (rep=3, index=1): <Trial 22 (1 in rep 3) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 22, 'thisTrialN': 1, 'thisRepN': 3}>
+51.5118 	DATA 	Keypress: l
+51.5180 	EXP 	fixation: autoDraw = False
+51.5180 	EXP 	text: autoDraw = False
+51.5180 	EXP 	text: height = 0.05
+51.5180 	EXP 	text: height = 0.05
+51.5180 	EXP 	text: height = 0.05
+51.5180 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+51.5180 	EXP 	fixation: autoDraw = True
+52.5113 	INFO 	Keyboard events cleared
+52.5104 	EXP 	text: autoDraw = True
+52.5253 	EXP 	fixation: autoDraw = False
+53.1448 	EXP 	New trial (rep=3, index=2): <Trial 23 (2 in rep 3) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 23, 'thisTrialN': 2, 'thisRepN': 3}>
+53.1521 	DATA 	Keypress: t
+53.1591 	EXP 	fixation: autoDraw = False
+53.1591 	EXP 	text: autoDraw = False
+53.1591 	EXP 	text: height = 0.05
+53.1591 	EXP 	text: height = 0.05
+53.1591 	EXP 	text: height = 0.05
+53.1591 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+53.1591 	EXP 	fixation: autoDraw = True
+54.1428 	INFO 	Keyboard events cleared
+54.1421 	EXP 	text: autoDraw = True
+54.1500 	EXP 	fixation: autoDraw = False
+54.7458 	EXP 	New trial (rep=3, index=3): <Trial 24 (3 in rep 3) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 24, 'thisTrialN': 3, 'thisRepN': 3}>
+54.7536 	DATA 	Keypress: l
+54.7617 	EXP 	fixation: autoDraw = False
+54.7617 	EXP 	text: autoDraw = False
+54.7617 	EXP 	text: height = 0.05
+54.7617 	EXP 	text: height = 0.05
+54.7617 	EXP 	text: height = 0.05
+54.7617 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+54.7617 	EXP 	fixation: autoDraw = True
+55.7593 	INFO 	Keyboard events cleared
+55.7579 	EXP 	text: autoDraw = True
+55.7752 	EXP 	fixation: autoDraw = False
+56.3118 	EXP 	New trial (rep=3, index=4): <Trial 25 (4 in rep 3) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 25, 'thisTrialN': 4, 'thisRepN': 3}>
+56.3188 	DATA 	Keypress: t
+56.3258 	EXP 	fixation: autoDraw = False
+56.3258 	EXP 	text: autoDraw = False
+56.3258 	EXP 	text: height = 0.05
+56.3258 	EXP 	text: height = 0.05
+56.3258 	EXP 	text: height = 0.05
+56.3258 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+56.3258 	EXP 	fixation: autoDraw = True
+57.3085 	INFO 	Keyboard events cleared
+57.3078 	EXP 	text: autoDraw = True
+57.3246 	EXP 	fixation: autoDraw = False
+58.2292 	EXP 	New trial (rep=3, index=5): <Trial 26 (5 in rep 3) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 26, 'thisTrialN': 5, 'thisRepN': 3}>
+58.2379 	DATA 	Keypress: l
+58.2447 	EXP 	fixation: autoDraw = False
+58.2447 	EXP 	text: autoDraw = False
+58.2447 	EXP 	text: height = 0.05
+58.2447 	EXP 	text: height = 0.05
+58.2447 	EXP 	text: height = 0.05
+58.2447 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+58.2447 	EXP 	fixation: autoDraw = True
+59.2267 	INFO 	Keyboard events cleared
+59.2254 	EXP 	text: autoDraw = True
+59.2445 	EXP 	fixation: autoDraw = False
+60.0147 	EXP 	New trial (rep=3, index=6): <Trial 27 (6 in rep 3) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 27, 'thisTrialN': 6, 'thisRepN': 3}>
+60.0212 	DATA 	Keypress: t
+60.0286 	EXP 	fixation: autoDraw = False
+60.0286 	EXP 	text: autoDraw = False
+60.0286 	EXP 	text: height = 0.05
+60.0286 	EXP 	text: height = 0.05
+60.0286 	EXP 	text: height = 0.05
+60.0286 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+60.0286 	EXP 	fixation: autoDraw = True
+61.0089 	INFO 	Keyboard events cleared
+61.0081 	EXP 	text: autoDraw = True
+61.0262 	EXP 	fixation: autoDraw = False
+61.7604 	EXP 	New trial (rep=4, index=0): <Trial 28 (0 in rep 4) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 28, 'thisTrialN': 0, 'thisRepN': 4}>
+61.7643 	DATA 	Keypress: t
+61.7718 	EXP 	fixation: autoDraw = False
+61.7718 	EXP 	text: autoDraw = False
+61.7718 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+61.7718 	EXP 	fixation: autoDraw = True
+62.7589 	INFO 	Keyboard events cleared
+62.7580 	EXP 	text: autoDraw = True
+62.7661 	EXP 	fixation: autoDraw = False
+63.4195 	EXP 	New trial (rep=4, index=1): <Trial 29 (1 in rep 4) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 29, 'thisTrialN': 1, 'thisRepN': 4}>
+63.4286 	DATA 	Keypress: t
+63.4350 	EXP 	fixation: autoDraw = False
+63.4350 	EXP 	text: autoDraw = False
+63.4350 	EXP 	text: height = 0.05
+63.4350 	EXP 	text: height = 0.05
+63.4350 	EXP 	text: height = 0.05
+63.4350 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+63.4350 	EXP 	fixation: autoDraw = True
+64.4174 	INFO 	Keyboard events cleared
+64.4164 	EXP 	text: autoDraw = True
+64.4419 	EXP 	fixation: autoDraw = False
+65.3277 	EXP 	New trial (rep=4, index=2): <Trial 30 (2 in rep 4) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 30, 'thisTrialN': 2, 'thisRepN': 4}>
+65.3347 	DATA 	Keypress: t
+65.3430 	EXP 	fixation: autoDraw = False
+65.3430 	EXP 	text: autoDraw = False
+65.3430 	EXP 	text: height = 0.05
+65.3430 	EXP 	text: height = 0.05
+65.3430 	EXP 	text: height = 0.05
+65.3430 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+65.3430 	EXP 	fixation: autoDraw = True
+66.3254 	INFO 	Keyboard events cleared
+66.3246 	EXP 	text: autoDraw = True
+66.3439 	EXP 	fixation: autoDraw = False
+67.2195 	EXP 	New trial (rep=4, index=3): <Trial 31 (3 in rep 4) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 31, 'thisTrialN': 3, 'thisRepN': 4}>
+67.2285 	DATA 	Keypress: l
+67.2359 	EXP 	fixation: autoDraw = False
+67.2359 	EXP 	text: autoDraw = False
+67.2359 	EXP 	text: height = 0.05
+67.2359 	EXP 	text: height = 0.05
+67.2359 	EXP 	text: height = 0.05
+67.2359 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+67.2359 	EXP 	fixation: autoDraw = True
+68.2172 	INFO 	Keyboard events cleared
+68.2159 	EXP 	text: autoDraw = True
+68.2416 	EXP 	fixation: autoDraw = False
+68.8017 	EXP 	New trial (rep=4, index=4): <Trial 32 (4 in rep 4) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 32, 'thisTrialN': 4, 'thisRepN': 4}>
+68.8092 	DATA 	Keypress: t
+68.8151 	EXP 	fixation: autoDraw = False
+68.8151 	EXP 	text: autoDraw = False
+68.8151 	EXP 	text: height = 0.05
+68.8151 	EXP 	text: height = 0.05
+68.8151 	EXP 	text: height = 0.05
+68.8151 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+68.8151 	EXP 	fixation: autoDraw = True
+69.8006 	INFO 	Keyboard events cleared
+69.7990 	EXP 	text: autoDraw = True
+69.8101 	EXP 	fixation: autoDraw = False
+70.3120 	EXP 	New trial (rep=4, index=5): <Trial 33 (5 in rep 4) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 33, 'thisTrialN': 5, 'thisRepN': 4}>
+70.3209 	DATA 	Keypress: t
+70.3291 	EXP 	fixation: autoDraw = False
+70.3291 	EXP 	text: autoDraw = False
+70.3291 	EXP 	text: height = 0.05
+70.3291 	EXP 	text: height = 0.05
+70.3291 	EXP 	text: height = 0.05
+70.3291 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+70.3291 	EXP 	fixation: autoDraw = True
+71.3087 	INFO 	Keyboard events cleared
+71.3079 	EXP 	text: autoDraw = True
+71.3262 	EXP 	fixation: autoDraw = False
+72.2603 	EXP 	New trial (rep=4, index=6): <Trial 34 (6 in rep 4) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 34, 'thisTrialN': 6, 'thisRepN': 4}>
+72.2705 	DATA 	Keypress: l
+72.2779 	EXP 	fixation: autoDraw = False
+72.2779 	EXP 	text: autoDraw = False
+72.2779 	EXP 	text: height = 0.05
+72.2779 	EXP 	text: height = 0.05
+72.2779 	EXP 	text: height = 0.05
+72.2779 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+72.2779 	EXP 	fixation: autoDraw = True
+73.2591 	INFO 	Keyboard events cleared
+73.2580 	EXP 	text: autoDraw = True
+73.2767 	EXP 	fixation: autoDraw = False
+74.6620 	EXP 	New trial (rep=5, index=0): <Trial 35 (0 in rep 5) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 35, 'thisTrialN': 0, 'thisRepN': 5}>
+74.6684 	DATA 	Keypress: l
+74.6750 	EXP 	fixation: autoDraw = False
+74.6750 	EXP 	text: autoDraw = False
+74.6750 	EXP 	text: height = 0.05
+74.6750 	EXP 	text: height = 0.05
+74.6750 	EXP 	text: height = 0.05
+74.6750 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+74.6750 	EXP 	fixation: autoDraw = True
+75.6587 	INFO 	Keyboard events cleared
+75.6581 	EXP 	text: autoDraw = True
+75.6656 	EXP 	fixation: autoDraw = False
+76.8281 	EXP 	New trial (rep=5, index=1): <Trial 36 (1 in rep 5) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 36, 'thisTrialN': 1, 'thisRepN': 5}>
+76.8352 	DATA 	Keypress: t
+76.8420 	EXP 	fixation: autoDraw = False
+76.8420 	EXP 	text: autoDraw = False
+76.8420 	EXP 	text: height = 0.05
+76.8420 	EXP 	text: height = 0.05
+76.8420 	EXP 	text: height = 0.05
+76.8420 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+76.8420 	EXP 	fixation: autoDraw = True
+77.8263 	INFO 	Keyboard events cleared
+77.8253 	EXP 	text: autoDraw = True
+77.8336 	EXP 	fixation: autoDraw = False
+78.7840 	EXP 	New trial (rep=5, index=2): <Trial 37 (2 in rep 5) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 37, 'thisTrialN': 2, 'thisRepN': 5}>
+78.7914 	DATA 	Keypress: l
+78.7988 	EXP 	fixation: autoDraw = False
+78.7988 	EXP 	text: autoDraw = False
+78.7988 	EXP 	text: height = 0.05
+78.7988 	EXP 	text: height = 0.05
+78.7988 	EXP 	text: height = 0.05
+78.7988 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+78.7988 	EXP 	fixation: autoDraw = True
+79.7832 	INFO 	Keyboard events cleared
+79.7821 	EXP 	text: autoDraw = True
+79.7928 	EXP 	fixation: autoDraw = False
+81.2777 	EXP 	New trial (rep=5, index=3): <Trial 38 (3 in rep 5) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 38, 'thisTrialN': 3, 'thisRepN': 5}>
+81.2853 	DATA 	Keypress: t
+81.2937 	EXP 	fixation: autoDraw = False
+81.2937 	EXP 	text: autoDraw = False
+81.2937 	EXP 	text: height = 0.05
+81.2937 	EXP 	text: height = 0.05
+81.2937 	EXP 	text: height = 0.05
+81.2937 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+81.2937 	EXP 	fixation: autoDraw = True
+82.2758 	INFO 	Keyboard events cleared
+82.2752 	EXP 	text: autoDraw = True
+82.2913 	EXP 	fixation: autoDraw = False
+84.2503 	EXP 	New trial (rep=5, index=4): <Trial 39 (4 in rep 5) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 39, 'thisTrialN': 4, 'thisRepN': 5}>
+84.2621 	DATA 	Keypress: l
+84.2705 	EXP 	fixation: autoDraw = False
+84.2705 	EXP 	text: autoDraw = False
+84.2705 	EXP 	text: height = 0.05
+84.2705 	EXP 	text: height = 0.05
+84.2705 	EXP 	text: height = 0.05
+84.2705 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+84.2705 	EXP 	fixation: autoDraw = True
+85.2498 	INFO 	Keyboard events cleared
+85.2487 	EXP 	text: autoDraw = True
+85.2673 	EXP 	fixation: autoDraw = False
+86.5695 	EXP 	New trial (rep=5, index=5): <Trial 40 (5 in rep 5) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 40, 'thisTrialN': 5, 'thisRepN': 5}>
+86.5786 	DATA 	Keypress: l
+86.5868 	EXP 	fixation: autoDraw = False
+86.5868 	EXP 	text: autoDraw = False
+86.5868 	EXP 	text: height = 0.05
+86.5868 	EXP 	text: height = 0.05
+86.5868 	EXP 	text: height = 0.05
+86.5868 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+86.5868 	EXP 	fixation: autoDraw = True
+87.5657 	INFO 	Keyboard events cleared
+87.5648 	EXP 	text: autoDraw = True
+87.5820 	EXP 	fixation: autoDraw = False
+89.8603 	EXP 	New trial (rep=5, index=6): <Trial 41 (6 in rep 5) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 41, 'thisTrialN': 6, 'thisRepN': 5}>
+89.8680 	DATA 	Keypress: l
+89.8750 	EXP 	fixation: autoDraw = False
+89.8750 	EXP 	text: autoDraw = False
+89.8750 	EXP 	text: height = 0.05
+89.8750 	EXP 	text: height = 0.05
+89.8750 	EXP 	text: height = 0.05
+89.8750 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+89.8750 	EXP 	fixation: autoDraw = True
+90.8583 	INFO 	Keyboard events cleared
+90.8576 	EXP 	text: autoDraw = True
+90.8657 	EXP 	fixation: autoDraw = False
+92.0893 	EXP 	New trial (rep=6, index=0): <Trial 42 (0 in rep 6) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 42, 'thisTrialN': 0, 'thisRepN': 6}>
+92.0972 	DATA 	Keypress: t
+92.1054 	EXP 	fixation: autoDraw = False
+92.1054 	EXP 	text: autoDraw = False
+92.1054 	EXP 	text: height = 0.05
+92.1054 	EXP 	text: height = 0.05
+92.1054 	EXP 	text: height = 0.05
+92.1054 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+92.1054 	EXP 	fixation: autoDraw = True
+93.0834 	INFO 	Keyboard events cleared
+93.0824 	EXP 	text: autoDraw = True
+93.0998 	EXP 	fixation: autoDraw = False
+94.1853 	EXP 	New trial (rep=6, index=1): <Trial 43 (1 in rep 6) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 43, 'thisTrialN': 1, 'thisRepN': 6}>
+94.1955 	DATA 	Keypress: l
+94.2027 	EXP 	fixation: autoDraw = False
+94.2027 	EXP 	text: autoDraw = False
+94.2027 	EXP 	text: height = 0.05
+94.2027 	EXP 	text: height = 0.05
+94.2027 	EXP 	text: height = 0.05
+94.2027 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+94.2027 	EXP 	fixation: autoDraw = True
+95.1847 	INFO 	Keyboard events cleared
+95.1837 	EXP 	text: autoDraw = True
+95.2078 	EXP 	fixation: autoDraw = False
+97.1598 	EXP 	New trial (rep=6, index=2): <Trial 44 (2 in rep 6) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 44, 'thisTrialN': 2, 'thisRepN': 6}>
+97.1687 	DATA 	Keypress: t
+97.1768 	EXP 	fixation: autoDraw = False
+97.1768 	EXP 	text: autoDraw = False
+97.1768 	EXP 	text: height = 0.05
+97.1768 	EXP 	text: height = 0.05
+97.1768 	EXP 	text: height = 0.05
+97.1768 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+97.1768 	EXP 	fixation: autoDraw = True
+98.1586 	INFO 	Keyboard events cleared
+98.1577 	EXP 	text: autoDraw = True
+98.1775 	EXP 	fixation: autoDraw = False
+99.5696 	EXP 	New trial (rep=6, index=3): <Trial 45 (3 in rep 6) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 45, 'thisTrialN': 3, 'thisRepN': 6}>
+99.5780 	DATA 	Keypress: t
+99.5840 	EXP 	fixation: autoDraw = False
+99.5840 	EXP 	text: autoDraw = False
+99.5840 	EXP 	text: height = 0.05
+99.5840 	EXP 	text: height = 0.05
+99.5840 	EXP 	text: height = 0.05
+99.5840 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+99.5840 	EXP 	fixation: autoDraw = True
+100.5682 	INFO 	Keyboard events cleared
+100.5668 	EXP 	text: autoDraw = True
+100.5777 	EXP 	fixation: autoDraw = False
+102.8104 	EXP 	New trial (rep=6, index=4): <Trial 46 (4 in rep 6) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 46, 'thisTrialN': 4, 'thisRepN': 6}>
+102.8183 	DATA 	Keypress: t
+102.8252 	EXP 	fixation: autoDraw = False
+102.8252 	EXP 	text: autoDraw = False
+102.8252 	EXP 	text: height = 0.05
+102.8252 	EXP 	text: height = 0.05
+102.8252 	EXP 	text: height = 0.05
+102.8252 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+102.8252 	EXP 	fixation: autoDraw = True
+103.8096 	INFO 	Keyboard events cleared
+103.8087 	EXP 	text: autoDraw = True
+103.8163 	EXP 	fixation: autoDraw = False
+105.2521 	EXP 	New trial (rep=6, index=5): <Trial 47 (5 in rep 6) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 47, 'thisTrialN': 5, 'thisRepN': 6}>
+105.2606 	DATA 	Keypress: l
+105.2680 	EXP 	fixation: autoDraw = False
+105.2680 	EXP 	text: autoDraw = False
+105.2680 	EXP 	text: height = 0.05
+105.2680 	EXP 	text: height = 0.05
+105.2680 	EXP 	text: height = 0.05
+105.2680 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+105.2680 	EXP 	fixation: autoDraw = True
+106.2492 	INFO 	Keyboard events cleared
+106.2484 	EXP 	text: autoDraw = True
+106.2663 	EXP 	fixation: autoDraw = False
+107.4277 	EXP 	New trial (rep=6, index=6): <Trial 48 (6 in rep 6) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 48, 'thisTrialN': 6, 'thisRepN': 6}>
+107.4354 	DATA 	Keypress: t
+107.4420 	EXP 	fixation: autoDraw = False
+107.4420 	EXP 	text: autoDraw = False
+107.4420 	EXP 	text: height = 0.05
+107.4420 	EXP 	text: height = 0.05
+107.4420 	EXP 	text: height = 0.05
+107.4420 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+107.4420 	EXP 	fixation: autoDraw = True
+108.4251 	INFO 	Keyboard events cleared
+108.4244 	EXP 	text: autoDraw = True
+108.4323 	EXP 	fixation: autoDraw = False
+109.1778 	EXP 	New trial (rep=7, index=0): <Trial 49 (0 in rep 7) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 49, 'thisTrialN': 0, 'thisRepN': 7}>
+109.1867 	DATA 	Keypress: l
+109.1940 	EXP 	fixation: autoDraw = False
+109.1940 	EXP 	text: autoDraw = False
+109.1940 	EXP 	text: height = 0.05
+109.1940 	EXP 	text: height = 0.05
+109.1940 	EXP 	text: height = 0.05
+109.1940 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+109.1940 	EXP 	fixation: autoDraw = True
+110.1912 	INFO 	Keyboard events cleared
+110.1903 	EXP 	text: autoDraw = True
+110.2084 	EXP 	fixation: autoDraw = False
+111.5116 	EXP 	New trial (rep=7, index=1): <Trial 50 (1 in rep 7) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 50, 'thisTrialN': 1, 'thisRepN': 7}>
+111.5196 	DATA 	Keypress: t
+111.5279 	EXP 	fixation: autoDraw = False
+111.5279 	EXP 	text: autoDraw = False
+111.5279 	EXP 	text: height = 0.05
+111.5279 	EXP 	text: height = 0.05
+111.5279 	EXP 	text: height = 0.05
+111.5279 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+111.5279 	EXP 	fixation: autoDraw = True
+112.5087 	INFO 	Keyboard events cleared
+112.5075 	EXP 	text: autoDraw = True
+112.5272 	EXP 	fixation: autoDraw = False
+115.0863 	EXP 	New trial (rep=7, index=2): <Trial 51 (2 in rep 7) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 51, 'thisTrialN': 2, 'thisRepN': 7}>
+115.0954 	DATA 	Keypress: l
+115.1020 	EXP 	fixation: autoDraw = False
+115.1020 	EXP 	text: autoDraw = False
+115.1020 	EXP 	text: height = 0.05
+115.1020 	EXP 	text: height = 0.05
+115.1020 	EXP 	text: height = 0.05
+115.1020 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+115.1020 	EXP 	fixation: autoDraw = True
+116.0824 	INFO 	Keyboard events cleared
+116.0815 	EXP 	text: autoDraw = True
+116.1081 	EXP 	fixation: autoDraw = False
+116.9607 	EXP 	New trial (rep=7, index=3): <Trial 52 (3 in rep 7) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 52, 'thisTrialN': 3, 'thisRepN': 7}>
+116.9682 	DATA 	Keypress: t
+116.9752 	EXP 	fixation: autoDraw = False
+116.9752 	EXP 	text: autoDraw = False
+116.9752 	EXP 	text: height = 0.05
+116.9752 	EXP 	text: height = 0.05
+116.9752 	EXP 	text: height = 0.05
+116.9752 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+116.9752 	EXP 	fixation: autoDraw = True
+117.9576 	INFO 	Keyboard events cleared
+117.9570 	EXP 	text: autoDraw = True
+117.9738 	EXP 	fixation: autoDraw = False
+118.7011 	EXP 	New trial (rep=7, index=4): <Trial 53 (4 in rep 7) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 53, 'thisTrialN': 4, 'thisRepN': 7}>
+118.7078 	DATA 	Keypress: l
+118.7138 	EXP 	fixation: autoDraw = False
+118.7138 	EXP 	text: autoDraw = False
+118.7138 	EXP 	text: height = 0.05
+118.7138 	EXP 	text: height = 0.05
+118.7138 	EXP 	text: height = 0.05
+118.7138 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+118.7138 	EXP 	fixation: autoDraw = True
+119.7000 	INFO 	Keyboard events cleared
+119.6988 	EXP 	text: autoDraw = True
+119.7096 	EXP 	fixation: autoDraw = False
+120.3289 	EXP 	New trial (rep=7, index=5): <Trial 54 (5 in rep 7) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 54, 'thisTrialN': 5, 'thisRepN': 7}>
+120.3366 	DATA 	Keypress: t
+120.3442 	EXP 	fixation: autoDraw = False
+120.3442 	EXP 	text: autoDraw = False
+120.3442 	EXP 	text: height = 0.05
+120.3442 	EXP 	text: height = 0.05
+120.3442 	EXP 	text: height = 0.05
+120.3442 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+120.3442 	EXP 	fixation: autoDraw = True
+121.3261 	INFO 	Keyboard events cleared
+121.3254 	EXP 	text: autoDraw = True
+121.3431 	EXP 	fixation: autoDraw = False
+122.1281 	EXP 	New trial (rep=7, index=6): <Trial 55 (6 in rep 7) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 55, 'thisTrialN': 6, 'thisRepN': 7}>
+122.1370 	DATA 	Keypress: t
+122.1438 	EXP 	fixation: autoDraw = False
+122.1438 	EXP 	text: autoDraw = False
+122.1438 	EXP 	text: height = 0.05
+122.1438 	EXP 	text: height = 0.05
+122.1438 	EXP 	text: height = 0.05
+122.1438 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+122.1438 	EXP 	fixation: autoDraw = True
+123.1248 	INFO 	Keyboard events cleared
+123.1238 	EXP 	text: autoDraw = True
+123.1433 	EXP 	fixation: autoDraw = False
+123.8435 	EXP 	New trial (rep=8, index=0): <Trial 56 (0 in rep 8) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 56, 'thisTrialN': 0, 'thisRepN': 8}>
+123.8515 	DATA 	Keypress: t
+123.8598 	EXP 	fixation: autoDraw = False
+123.8598 	EXP 	text: autoDraw = False
+123.8598 	EXP 	text: height = 0.05
+123.8598 	EXP 	text: height = 0.05
+123.8598 	EXP 	text: height = 0.05
+123.8598 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+123.8598 	EXP 	fixation: autoDraw = True
+124.8419 	INFO 	Keyboard events cleared
+124.8409 	EXP 	text: autoDraw = True
+124.8598 	EXP 	fixation: autoDraw = False
+126.2937 	EXP 	New trial (rep=8, index=1): <Trial 57 (1 in rep 8) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 57, 'thisTrialN': 1, 'thisRepN': 8}>
+126.3030 	DATA 	Keypress: t
+126.3104 	EXP 	fixation: autoDraw = False
+126.3104 	EXP 	text: autoDraw = False
+126.3104 	EXP 	text: height = 0.05
+126.3104 	EXP 	text: height = 0.05
+126.3104 	EXP 	text: height = 0.05
+126.3104 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+126.3104 	EXP 	fixation: autoDraw = True
+127.2911 	INFO 	Keyboard events cleared
+127.2902 	EXP 	text: autoDraw = True
+127.3082 	EXP 	fixation: autoDraw = False
+127.8620 	EXP 	New trial (rep=8, index=2): <Trial 58 (2 in rep 8) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 58, 'thisTrialN': 2, 'thisRepN': 8}>
+127.8699 	DATA 	Keypress: l
+127.8779 	EXP 	fixation: autoDraw = False
+127.8779 	EXP 	text: autoDraw = False
+127.8779 	EXP 	text: height = 0.05
+127.8779 	EXP 	text: height = 0.05
+127.8779 	EXP 	text: height = 0.05
+127.8779 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+127.8779 	EXP 	fixation: autoDraw = True
+128.8583 	INFO 	Keyboard events cleared
+128.8576 	EXP 	text: autoDraw = True
+128.8743 	EXP 	fixation: autoDraw = False
+129.9605 	EXP 	New trial (rep=8, index=3): <Trial 59 (3 in rep 8) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 59, 'thisTrialN': 3, 'thisRepN': 8}>
+129.9679 	DATA 	Keypress: l
+129.9761 	EXP 	fixation: autoDraw = False
+129.9761 	EXP 	text: autoDraw = False
+129.9761 	EXP 	text: height = 0.05
+129.9761 	EXP 	text: height = 0.05
+129.9761 	EXP 	text: height = 0.05
+129.9761 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+129.9761 	EXP 	fixation: autoDraw = True
+130.9580 	INFO 	Keyboard events cleared
+130.9573 	EXP 	text: autoDraw = True
+130.9765 	EXP 	fixation: autoDraw = False
+132.4612 	EXP 	New trial (rep=8, index=4): <Trial 60 (4 in rep 8) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 60, 'thisTrialN': 4, 'thisRepN': 8}>
+132.4698 	DATA 	Keypress: t
+132.4782 	EXP 	fixation: autoDraw = False
+132.4782 	EXP 	text: autoDraw = False
+132.4782 	EXP 	text: height = 0.05
+132.4782 	EXP 	text: height = 0.05
+132.4782 	EXP 	text: height = 0.05
+132.4782 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+132.4782 	EXP 	fixation: autoDraw = True
+133.4674 	INFO 	Keyboard events cleared
+133.4663 	EXP 	text: autoDraw = True
+133.4764 	EXP 	fixation: autoDraw = False
+135.1448 	EXP 	New trial (rep=8, index=5): <Trial 61 (5 in rep 8) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 61, 'thisTrialN': 5, 'thisRepN': 8}>
+135.1536 	DATA 	Keypress: l
+135.1618 	EXP 	fixation: autoDraw = False
+135.1618 	EXP 	text: autoDraw = False
+135.1618 	EXP 	text: height = 0.05
+135.1618 	EXP 	text: height = 0.05
+135.1618 	EXP 	text: height = 0.05
+135.1618 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+135.1618 	EXP 	fixation: autoDraw = True
+136.1424 	INFO 	Keyboard events cleared
+136.1415 	EXP 	text: autoDraw = True
+136.1597 	EXP 	fixation: autoDraw = False
+137.2595 	EXP 	New trial (rep=8, index=6): <Trial 62 (6 in rep 8) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 62, 'thisTrialN': 6, 'thisRepN': 8}>
+137.2666 	DATA 	Keypress: l
+137.2737 	EXP 	fixation: autoDraw = False
+137.2737 	EXP 	text: autoDraw = False
+137.2737 	EXP 	text: height = 0.05
+137.2737 	EXP 	text: height = 0.05
+137.2737 	EXP 	text: height = 0.05
+137.2737 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+137.2737 	EXP 	fixation: autoDraw = True
+138.2575 	INFO 	Keyboard events cleared
+138.2568 	EXP 	text: autoDraw = True
+138.2644 	EXP 	fixation: autoDraw = False
+140.1186 	EXP 	New trial (rep=9, index=0): <Trial 63 (0 in rep 9) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 63, 'thisTrialN': 0, 'thisRepN': 9}>
+140.1275 	DATA 	Keypress: t
+140.1352 	EXP 	fixation: autoDraw = False
+140.1352 	EXP 	text: autoDraw = False
+140.1352 	EXP 	text: height = 0.05
+140.1352 	EXP 	text: height = 0.05
+140.1352 	EXP 	text: height = 0.05
+140.1352 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+140.1352 	EXP 	fixation: autoDraw = True
+141.1158 	INFO 	Keyboard events cleared
+141.1145 	EXP 	text: autoDraw = True
+141.1577 	EXP 	fixation: autoDraw = False
+141.8949 	EXP 	New trial (rep=9, index=1): <Trial 64 (1 in rep 9) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 64, 'thisTrialN': 1, 'thisRepN': 9}>
+141.9035 	DATA 	Keypress: t
+141.9103 	EXP 	fixation: autoDraw = False
+141.9103 	EXP 	text: autoDraw = False
+141.9103 	EXP 	text: height = 0.05
+141.9103 	EXP 	text: height = 0.05
+141.9103 	EXP 	text: height = 0.05
+141.9103 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+141.9103 	EXP 	fixation: autoDraw = True
+142.8911 	INFO 	Keyboard events cleared
+142.8901 	EXP 	text: autoDraw = True
+142.9078 	EXP 	fixation: autoDraw = False
+143.5123 	EXP 	New trial (rep=9, index=2): <Trial 65 (2 in rep 9) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 65, 'thisTrialN': 2, 'thisRepN': 9}>
+143.5227 	DATA 	Keypress: l
+143.5291 	EXP 	fixation: autoDraw = False
+143.5291 	EXP 	text: autoDraw = False
+143.5291 	EXP 	text: height = 0.05
+143.5291 	EXP 	text: height = 0.05
+143.5291 	EXP 	text: height = 0.05
+143.5291 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+143.5291 	EXP 	fixation: autoDraw = True
+144.5089 	INFO 	Keyboard events cleared
+144.5079 	EXP 	text: autoDraw = True
+144.5273 	EXP 	fixation: autoDraw = False
+145.5185 	EXP 	New trial (rep=9, index=3): <Trial 66 (3 in rep 9) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 66, 'thisTrialN': 3, 'thisRepN': 9}>
+145.5275 	DATA 	Keypress: t
+145.5336 	EXP 	fixation: autoDraw = False
+145.5336 	EXP 	text: autoDraw = False
+145.5336 	EXP 	text: height = 0.05
+145.5336 	EXP 	text: height = 0.05
+145.5336 	EXP 	text: height = 0.05
+145.5336 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+145.5336 	EXP 	fixation: autoDraw = True
+146.5158 	INFO 	Keyboard events cleared
+146.5145 	EXP 	text: autoDraw = True
+146.5406 	EXP 	fixation: autoDraw = False
+147.6940 	EXP 	New trial (rep=9, index=4): <Trial 67 (4 in rep 9) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 67, 'thisTrialN': 4, 'thisRepN': 9}>
+147.7017 	DATA 	Keypress: t
+147.7098 	EXP 	fixation: autoDraw = False
+147.7098 	EXP 	text: autoDraw = False
+147.7098 	EXP 	text: height = 0.05
+147.7098 	EXP 	text: height = 0.05
+147.7098 	EXP 	text: height = 0.05
+147.7098 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+147.7098 	EXP 	fixation: autoDraw = True
+148.6913 	INFO 	Keyboard events cleared
+148.6902 	EXP 	text: autoDraw = True
+148.7084 	EXP 	fixation: autoDraw = False
+149.3845 	EXP 	New trial (rep=9, index=5): <Trial 68 (5 in rep 9) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 68, 'thisTrialN': 5, 'thisRepN': 9}>
+149.3922 	DATA 	Keypress: l
+149.4000 	EXP 	fixation: autoDraw = False
+149.4000 	EXP 	text: autoDraw = False
+149.4000 	EXP 	text: height = 0.05
+149.4000 	EXP 	text: height = 0.05
+149.4000 	EXP 	text: height = 0.05
+149.4000 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+149.4000 	EXP 	fixation: autoDraw = True
+150.3827 	INFO 	Keyboard events cleared
+150.3813 	EXP 	text: autoDraw = True
+150.4072 	EXP 	fixation: autoDraw = False
+151.1496 	DATA 	Keypress: l
+151.1589 	EXP 	New trial (rep=9, index=6): <Trial 69 (6 in rep 9) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 69, 'thisTrialN': 6, 'thisRepN': 9}>
+151.1690 	EXP 	fixation: autoDraw = False
+151.1690 	EXP 	text: autoDraw = False
+151.1690 	EXP 	text: height = 0.05
+151.1690 	EXP 	text: height = 0.05
+151.1690 	EXP 	text: height = 0.05
+151.1690 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+151.1690 	EXP 	fixation: autoDraw = True
+152.1498 	INFO 	Keyboard events cleared
+152.1488 	EXP 	text: autoDraw = True
+152.1742 	EXP 	fixation: autoDraw = False
+153.2216 	EXP 	New trial (rep=10, index=0): <Trial 70 (0 in rep 10) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 70, 'thisTrialN': 0, 'thisRepN': 10}>
+153.2293 	DATA 	Keypress: t
+153.2373 	EXP 	fixation: autoDraw = False
+153.2373 	EXP 	text: autoDraw = False
+153.2373 	EXP 	text: height = 0.05
+153.2373 	EXP 	text: height = 0.05
+153.2373 	EXP 	text: height = 0.05
+153.2373 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+153.2373 	EXP 	fixation: autoDraw = True
+154.2154 	INFO 	Keyboard events cleared
+154.2142 	EXP 	text: autoDraw = True
+154.2329 	EXP 	fixation: autoDraw = False
+155.5769 	EXP 	New trial (rep=10, index=1): <Trial 71 (1 in rep 10) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 71, 'thisTrialN': 1, 'thisRepN': 10}>
+155.5851 	DATA 	Keypress: l
+155.5935 	EXP 	fixation: autoDraw = False
+155.5935 	EXP 	text: autoDraw = False
+155.5935 	EXP 	text: height = 0.05
+155.5935 	EXP 	text: height = 0.05
+155.5935 	EXP 	text: height = 0.05
+155.5935 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+155.5935 	EXP 	fixation: autoDraw = True
+156.5906 	INFO 	Keyboard events cleared
+156.5899 	EXP 	text: autoDraw = True
+156.6078 	EXP 	fixation: autoDraw = False
+157.6105 	EXP 	New trial (rep=10, index=2): <Trial 72 (2 in rep 10) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 72, 'thisTrialN': 2, 'thisRepN': 10}>
+157.6177 	DATA 	Keypress: t
+157.6254 	EXP 	fixation: autoDraw = False
+157.6254 	EXP 	text: autoDraw = False
+157.6254 	EXP 	text: height = 0.05
+157.6254 	EXP 	text: height = 0.05
+157.6254 	EXP 	text: height = 0.05
+157.6254 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+157.6254 	EXP 	fixation: autoDraw = True
+158.6072 	INFO 	Keyboard events cleared
+158.6064 	EXP 	text: autoDraw = True
+158.6241 	EXP 	fixation: autoDraw = False
+160.7790 	EXP 	New trial (rep=10, index=3): <Trial 73 (3 in rep 10) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 73, 'thisTrialN': 3, 'thisRepN': 10}>
+160.7894 	DATA 	Keypress: t
+160.7958 	EXP 	fixation: autoDraw = False
+160.7958 	EXP 	text: autoDraw = False
+160.7958 	EXP 	text: height = 0.05
+160.7958 	EXP 	text: height = 0.05
+160.7958 	EXP 	text: height = 0.05
+160.7958 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+160.7958 	EXP 	fixation: autoDraw = True
+161.7742 	INFO 	Keyboard events cleared
+161.7734 	EXP 	text: autoDraw = True
+161.7913 	EXP 	fixation: autoDraw = False
+162.4691 	EXP 	New trial (rep=10, index=4): <Trial 74 (4 in rep 10) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 74, 'thisTrialN': 4, 'thisRepN': 10}>
+162.4770 	DATA 	Keypress: l
+162.4844 	EXP 	fixation: autoDraw = False
+162.4844 	EXP 	text: autoDraw = False
+162.4844 	EXP 	text: height = 0.05
+162.4844 	EXP 	text: height = 0.05
+162.4844 	EXP 	text: height = 0.05
+162.4844 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+162.4844 	EXP 	fixation: autoDraw = True
+163.4661 	INFO 	Keyboard events cleared
+163.4647 	EXP 	text: autoDraw = True
+163.4900 	EXP 	fixation: autoDraw = False
+164.2176 	EXP 	New trial (rep=10, index=5): <Trial 75 (5 in rep 10) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 75, 'thisTrialN': 5, 'thisRepN': 10}>
+164.2263 	DATA 	Keypress: t
+164.2323 	EXP 	fixation: autoDraw = False
+164.2323 	EXP 	text: autoDraw = False
+164.2323 	EXP 	text: height = 0.05
+164.2323 	EXP 	text: height = 0.05
+164.2323 	EXP 	text: height = 0.05
+164.2323 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+164.2323 	EXP 	fixation: autoDraw = True
+165.2158 	INFO 	Keyboard events cleared
+165.2147 	EXP 	text: autoDraw = True
+165.2243 	EXP 	fixation: autoDraw = False
+166.0517 	EXP 	New trial (rep=10, index=6): <Trial 76 (6 in rep 10) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 76, 'thisTrialN': 6, 'thisRepN': 10}>
+166.0603 	DATA 	Keypress: l
+166.0664 	EXP 	fixation: autoDraw = False
+166.0664 	EXP 	text: autoDraw = False
+166.0664 	EXP 	text: height = 0.05
+166.0664 	EXP 	text: height = 0.05
+166.0664 	EXP 	text: height = 0.05
+166.0664 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+166.0664 	EXP 	fixation: autoDraw = True
+167.0516 	INFO 	Keyboard events cleared
+167.0504 	EXP 	text: autoDraw = True
+167.0598 	EXP 	fixation: autoDraw = False
+167.9347 	EXP 	New trial (rep=11, index=0): <Trial 77 (0 in rep 11) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 77, 'thisTrialN': 0, 'thisRepN': 11}>
+167.9426 	DATA 	Keypress: l
+167.9488 	EXP 	fixation: autoDraw = False
+167.9488 	EXP 	text: autoDraw = False
+167.9488 	EXP 	text: height = 0.05
+167.9488 	EXP 	text: height = 0.05
+167.9488 	EXP 	text: height = 0.05
+167.9488 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+167.9488 	EXP 	fixation: autoDraw = True
+168.9324 	INFO 	Keyboard events cleared
+168.9310 	EXP 	text: autoDraw = True
+168.9569 	EXP 	fixation: autoDraw = False
+169.9104 	EXP 	New trial (rep=11, index=1): <Trial 78 (1 in rep 11) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 78, 'thisTrialN': 1, 'thisRepN': 11}>
+169.9180 	DATA 	Keypress: t
+169.9261 	EXP 	fixation: autoDraw = False
+169.9261 	EXP 	text: autoDraw = False
+169.9261 	EXP 	text: height = 0.05
+169.9261 	EXP 	text: height = 0.05
+169.9261 	EXP 	text: height = 0.05
+169.9261 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+169.9261 	EXP 	fixation: autoDraw = True
+170.9086 	INFO 	Keyboard events cleared
+170.9076 	EXP 	text: autoDraw = True
+170.9264 	EXP 	fixation: autoDraw = False
+171.5175 	EXP 	New trial (rep=11, index=2): <Trial 79 (2 in rep 11) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 79, 'thisTrialN': 2, 'thisRepN': 11}>
+171.5263 	DATA 	Keypress: l
+171.5326 	EXP 	fixation: autoDraw = False
+171.5326 	EXP 	text: autoDraw = False
+171.5326 	EXP 	text: height = 0.05
+171.5326 	EXP 	text: height = 0.05
+171.5326 	EXP 	text: height = 0.05
+171.5326 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+171.5326 	EXP 	fixation: autoDraw = True
+172.5163 	INFO 	Keyboard events cleared
+172.5154 	EXP 	text: autoDraw = True
+172.5256 	EXP 	fixation: autoDraw = False
+173.1109 	EXP 	New trial (rep=11, index=3): <Trial 80 (3 in rep 11) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 80, 'thisTrialN': 3, 'thisRepN': 11}>
+173.1187 	DATA 	Keypress: t
+173.1268 	EXP 	fixation: autoDraw = False
+173.1268 	EXP 	text: autoDraw = False
+173.1268 	EXP 	text: height = 0.05
+173.1268 	EXP 	text: height = 0.05
+173.1268 	EXP 	text: height = 0.05
+173.1268 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+173.1268 	EXP 	fixation: autoDraw = True
+174.1071 	INFO 	Keyboard events cleared
+174.1064 	EXP 	text: autoDraw = True
+174.1236 	EXP 	fixation: autoDraw = False
+174.8258 	EXP 	New trial (rep=11, index=4): <Trial 81 (4 in rep 11) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 81, 'thisTrialN': 4, 'thisRepN': 11}>
+174.8342 	DATA 	Keypress: l
+174.8420 	EXP 	fixation: autoDraw = False
+174.8420 	EXP 	text: autoDraw = False
+174.8420 	EXP 	text: height = 0.05
+174.8420 	EXP 	text: height = 0.05
+174.8420 	EXP 	text: height = 0.05
+174.8420 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+174.8420 	EXP 	fixation: autoDraw = True
+175.8248 	INFO 	Keyboard events cleared
+175.8238 	EXP 	text: autoDraw = True
+175.8433 	EXP 	fixation: autoDraw = False
+177.1087 	EXP 	New trial (rep=11, index=5): <Trial 82 (5 in rep 11) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 82, 'thisTrialN': 5, 'thisRepN': 11}>
+177.1149 	DATA 	Keypress: t
+177.1216 	EXP 	fixation: autoDraw = False
+177.1216 	EXP 	text: autoDraw = False
+177.1216 	EXP 	text: height = 0.05
+177.1216 	EXP 	text: height = 0.05
+177.1216 	EXP 	text: height = 0.05
+177.1216 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+177.1216 	EXP 	fixation: autoDraw = True
+178.1091 	INFO 	Keyboard events cleared
+178.1081 	EXP 	text: autoDraw = True
+178.1164 	EXP 	fixation: autoDraw = False
+179.2427 	EXP 	New trial (rep=11, index=6): <Trial 83 (6 in rep 11) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 83, 'thisTrialN': 6, 'thisRepN': 11}>
+179.2506 	DATA 	Keypress: l
+179.2589 	EXP 	fixation: autoDraw = False
+179.2589 	EXP 	text: autoDraw = False
+179.2589 	EXP 	text: height = 0.05
+179.2589 	EXP 	text: height = 0.05
+179.2589 	EXP 	text: height = 0.05
+179.2589 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+179.2589 	EXP 	fixation: autoDraw = True
+180.2420 	INFO 	Keyboard events cleared
+180.2409 	EXP 	text: autoDraw = True
+180.2599 	EXP 	fixation: autoDraw = False
+181.6267 	EXP 	New trial (rep=12, index=0): <Trial 84 (0 in rep 12) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 84, 'thisTrialN': 0, 'thisRepN': 12}>
+181.6344 	DATA 	Keypress: l
+181.6407 	EXP 	fixation: autoDraw = False
+181.6407 	EXP 	text: autoDraw = False
+181.6407 	EXP 	text: height = 0.05
+181.6407 	EXP 	text: height = 0.05
+181.6407 	EXP 	text: height = 0.05
+181.6407 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+181.6407 	EXP 	fixation: autoDraw = True
+182.6415 	INFO 	Keyboard events cleared
+182.6402 	EXP 	text: autoDraw = True
+182.6565 	EXP 	fixation: autoDraw = False
+183.6410 	DATA 	Keypress: l
+183.6497 	EXP 	New trial (rep=12, index=1): <Trial 85 (1 in rep 12) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 85, 'thisTrialN': 1, 'thisRepN': 12}>
+183.6604 	EXP 	fixation: autoDraw = False
+183.6604 	EXP 	text: autoDraw = False
+183.6604 	EXP 	text: height = 0.05
+183.6604 	EXP 	text: height = 0.05
+183.6604 	EXP 	text: height = 0.05
+183.6604 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+183.6604 	EXP 	fixation: autoDraw = True
+184.6495 	INFO 	Keyboard events cleared
+184.6484 	EXP 	text: autoDraw = True
+184.6588 	EXP 	fixation: autoDraw = False
+185.6764 	EXP 	New trial (rep=12, index=2): <Trial 86 (2 in rep 12) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 86, 'thisTrialN': 2, 'thisRepN': 12}>
+185.6837 	DATA 	Keypress: t
+185.6918 	EXP 	fixation: autoDraw = False
+185.6918 	EXP 	text: autoDraw = False
+185.6918 	EXP 	text: height = 0.05
+185.6918 	EXP 	text: height = 0.05
+185.6918 	EXP 	text: height = 0.05
+185.6918 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+185.6918 	EXP 	fixation: autoDraw = True
+186.6743 	INFO 	Keyboard events cleared
+186.6735 	EXP 	text: autoDraw = True
+186.6922 	EXP 	fixation: autoDraw = False
+187.8170 	EXP 	New trial (rep=12, index=3): <Trial 87 (3 in rep 12) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 87, 'thisTrialN': 3, 'thisRepN': 12}>
+187.8254 	DATA 	Keypress: t
+187.8334 	EXP 	fixation: autoDraw = False
+187.8334 	EXP 	text: autoDraw = False
+187.8334 	EXP 	text: height = 0.05
+187.8334 	EXP 	text: height = 0.05
+187.8334 	EXP 	text: height = 0.05
+187.8334 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+187.8334 	EXP 	fixation: autoDraw = True
+188.8154 	INFO 	Keyboard events cleared
+188.8143 	EXP 	text: autoDraw = True
+188.8576 	EXP 	fixation: autoDraw = False
+189.7703 	EXP 	New trial (rep=12, index=4): <Trial 88 (4 in rep 12) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 88, 'thisTrialN': 4, 'thisRepN': 12}>
+189.7788 	DATA 	Keypress: l
+189.7861 	EXP 	fixation: autoDraw = False
+189.7861 	EXP 	text: autoDraw = False
+189.7861 	EXP 	text: height = 0.05
+189.7861 	EXP 	text: height = 0.05
+189.7861 	EXP 	text: height = 0.05
+189.7861 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+189.7861 	EXP 	fixation: autoDraw = True
+190.7652 	INFO 	Keyboard events cleared
+190.7641 	EXP 	text: autoDraw = True
+190.8074 	EXP 	fixation: autoDraw = False
+191.5330 	EXP 	New trial (rep=12, index=5): <Trial 89 (5 in rep 12) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 89, 'thisTrialN': 5, 'thisRepN': 12}>
+191.5408 	DATA 	Keypress: t
+191.5469 	EXP 	fixation: autoDraw = False
+191.5469 	EXP 	text: autoDraw = False
+191.5469 	EXP 	text: height = 0.05
+191.5469 	EXP 	text: height = 0.05
+191.5469 	EXP 	text: height = 0.05
+191.5469 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+191.5469 	EXP 	fixation: autoDraw = True
+192.5338 	INFO 	Keyboard events cleared
+192.5327 	EXP 	text: autoDraw = True
+192.5429 	EXP 	fixation: autoDraw = False
+193.5008 	EXP 	New trial (rep=12, index=6): <Trial 90 (6 in rep 12) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 90, 'thisTrialN': 6, 'thisRepN': 12}>
+193.5091 	DATA 	Keypress: t
+193.5160 	EXP 	fixation: autoDraw = False
+193.5160 	EXP 	text: autoDraw = False
+193.5160 	EXP 	text: height = 0.05
+193.5160 	EXP 	text: height = 0.05
+193.5160 	EXP 	text: height = 0.05
+193.5160 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+193.5160 	EXP 	fixation: autoDraw = True
+194.4982 	INFO 	Keyboard events cleared
+194.4972 	EXP 	text: autoDraw = True
+194.5151 	EXP 	fixation: autoDraw = False
+195.0767 	EXP 	New trial (rep=13, index=0): <Trial 91 (0 in rep 13) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 91, 'thisTrialN': 0, 'thisRepN': 13}>
+195.0835 	DATA 	Keypress: l
+195.0916 	EXP 	fixation: autoDraw = False
+195.0916 	EXP 	text: autoDraw = False
+195.0916 	EXP 	text: height = 0.05
+195.0916 	EXP 	text: height = 0.05
+195.0916 	EXP 	text: height = 0.05
+195.0916 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+195.0916 	EXP 	fixation: autoDraw = True
+196.0737 	INFO 	Keyboard events cleared
+196.0730 	EXP 	text: autoDraw = True
+196.0902 	EXP 	fixation: autoDraw = False
+196.6694 	EXP 	New trial (rep=13, index=1): <Trial 92 (1 in rep 13) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 92, 'thisTrialN': 1, 'thisRepN': 13}>
+196.6781 	DATA 	Keypress: t
+196.6862 	EXP 	fixation: autoDraw = False
+196.6862 	EXP 	text: autoDraw = False
+196.6862 	EXP 	text: height = 0.05
+196.6862 	EXP 	text: height = 0.05
+196.6862 	EXP 	text: height = 0.05
+196.6862 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+196.6862 	EXP 	fixation: autoDraw = True
+197.6655 	INFO 	Keyboard events cleared
+197.6640 	EXP 	text: autoDraw = True
+197.6900 	EXP 	fixation: autoDraw = False
+198.1504 	EXP 	New trial (rep=13, index=2): <Trial 93 (2 in rep 13) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 93, 'thisTrialN': 2, 'thisRepN': 13}>
+198.1585 	DATA 	Keypress: l
+198.1661 	EXP 	fixation: autoDraw = False
+198.1661 	EXP 	text: autoDraw = False
+198.1661 	EXP 	text: height = 0.05
+198.1661 	EXP 	text: height = 0.05
+198.1661 	EXP 	text: height = 0.05
+198.1661 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+198.1661 	EXP 	fixation: autoDraw = True
+199.1501 	INFO 	Keyboard events cleared
+199.1492 	EXP 	text: autoDraw = True
+199.1594 	EXP 	fixation: autoDraw = False
+200.0440 	EXP 	New trial (rep=13, index=3): <Trial 94 (3 in rep 13) data={'reward_today': 67, 'future_reward': 75, 'delay': 119, 'thisN': 94, 'thisTrialN': 3, 'thisRepN': 13}>
+200.0531 	DATA 	Keypress: t
+200.0616 	EXP 	fixation: autoDraw = False
+200.0616 	EXP 	text: autoDraw = False
+200.0616 	EXP 	text: height = 0.05
+200.0616 	EXP 	text: height = 0.05
+200.0616 	EXP 	text: height = 0.05
+200.0616 	EXP 	text: text = 'GBP 67 today or GBP 75 after 119 days'
+200.0616 	EXP 	fixation: autoDraw = True
+201.0397 	INFO 	Keyboard events cleared
+201.0391 	EXP 	text: autoDraw = True
+201.0559 	EXP 	fixation: autoDraw = False
+202.7001 	EXP 	New trial (rep=13, index=4): <Trial 95 (4 in rep 13) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 95, 'thisTrialN': 4, 'thisRepN': 13}>
+202.7083 	DATA 	Keypress: t
+202.7143 	EXP 	fixation: autoDraw = False
+202.7143 	EXP 	text: autoDraw = False
+202.7143 	EXP 	text: height = 0.05
+202.7143 	EXP 	text: height = 0.05
+202.7143 	EXP 	text: height = 0.05
+202.7143 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+202.7143 	EXP 	fixation: autoDraw = True
+203.6984 	INFO 	Keyboard events cleared
+203.6974 	EXP 	text: autoDraw = True
+203.7078 	EXP 	fixation: autoDraw = False
+204.2342 	EXP 	New trial (rep=13, index=5): <Trial 96 (5 in rep 13) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 96, 'thisTrialN': 5, 'thisRepN': 13}>
+204.2425 	DATA 	Keypress: l
+204.2483 	EXP 	fixation: autoDraw = False
+204.2483 	EXP 	text: autoDraw = False
+204.2483 	EXP 	text: height = 0.05
+204.2483 	EXP 	text: height = 0.05
+204.2483 	EXP 	text: height = 0.05
+204.2483 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+204.2483 	EXP 	fixation: autoDraw = True
+205.2334 	INFO 	Keyboard events cleared
+205.2321 	EXP 	text: autoDraw = True
+205.2432 	EXP 	fixation: autoDraw = False
+206.0766 	EXP 	New trial (rep=13, index=6): <Trial 97 (6 in rep 13) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 97, 'thisTrialN': 6, 'thisRepN': 13}>
+206.0850 	DATA 	Keypress: l
+206.0930 	EXP 	fixation: autoDraw = False
+206.0930 	EXP 	text: autoDraw = False
+206.0930 	EXP 	text: height = 0.05
+206.0930 	EXP 	text: height = 0.05
+206.0930 	EXP 	text: height = 0.05
+206.0930 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+206.0930 	EXP 	fixation: autoDraw = True
+207.0735 	INFO 	Keyboard events cleared
+207.0728 	EXP 	text: autoDraw = True
+207.0929 	EXP 	fixation: autoDraw = False
+208.9883 	DATA 	Keypress: t
+208.9950 	EXP 	fixation: autoDraw = False
+208.9950 	EXP 	text: autoDraw = False
+208.9952 	EXP 	DelayDiscountingExperiment: status = STOPPED
+209.0191 	INFO 	saved data to '/Users/purvajhunjhunwala/Desktop/lab in psychology/Delay discounting/data/139929_DelayDiscountingExperiment_2024-11-16_13h03.32.082.csv'
+209.0202 	INFO 	saved data to /Users/purvajhunjhunwala/Desktop/lab in psychology/Delay discounting/data/139929_DelayDiscountingExperiment_2024-11-16_13h03.32.082.psydat
+209.5972 	EXP 	window1: mouseVisible = True
