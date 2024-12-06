@@ -1,0 +1,787 @@
+26.4194 	WARNING 	/Library/Fonts/FontsFree-Net-Anitha.ttf doesn't have valid font family name
+27.0568 	WARNING 	/Library/Fonts/FontsFree-Net-Anitha.ttf doesn't have valid font family name
+33.4691 	INFO 	Loaded monitor calibration from ['2024_08_05 14:42']
+33.8093 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9d50>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9cf0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9b10>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x132ad1300>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+33.8094 	EXP 	window1: backgroundImage = ''
+33.8094 	EXP 	window1: backgroundFit = 'none'
+33.8097 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9e70>
+33.8099 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9e70>
+33.8138 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9e70>
+33.8146 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9e70>
+33.8585 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9e70>
+33.8587 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9e70>
+33.8595 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9e70>
+33.8602 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x132ab9e70>
+33.8751 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+33.8752 	EXP 	window1: recordFrameIntervals = False
+34.3136 	EXP 	window1: recordFrameIntervals = True
+34.4301 	WARNING 	t of last frame was 25.07ms (=1/39)
+34.7301 	WARNING 	t of last frame was 26.70ms (=1/37)
+34.8633 	WARNING 	t of last frame was 25.92ms (=1/38)
+35.1467 	WARNING 	t of last frame was 24.69ms (=1/40)
+35.2303 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+35.4692 	EXP 	Screen (0) actual frame rate measured at 89.83Hz
+35.4693 	EXP 	window1: recordFrameIntervals = False
+35.4696 	EXP 	window1: mouseVisible = True
+37.2677 	INFO 	keyboard.Keyboard is using ptb backend.
+37.5246 	INFO 	keyboard.Keyboard is using ptb backend.
+37.7863 	INFO 	keyboard.Keyboard is using ptb backend.
+38.0448 	INFO 	keyboard.Keyboard is using ptb backend.
+38.0448 	EXP 	OddOneOut_Experiment: status = STARTED
+38.0464 	EXP 	window1: mouseVisible = True
+38.1253 	EXP 	Created instruction_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instruction_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1.5)
+38.1256 	EXP 	window1: mouseVisible = True
+38.1288 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+38.1290 	EXP 	window1: mouseVisible = True
+38.1299 	EXP 	Created word_one = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='word_one', opacity=1, ori=0.0, pos=array([-0.3,  0. ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+38.1300 	EXP 	window1: mouseVisible = True
+38.1309 	EXP 	Created word_two = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='word_two', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+38.1310 	EXP 	window1: mouseVisible = True
+38.1319 	EXP 	Created word_three = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='word_three', opacity=1, ori=0.0, pos=array([0.3, 0. ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+38.1320 	EXP 	window1: mouseVisible = True
+38.1384 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+38.1386 	EXP 	window1: mouseVisible = True
+38.1475 	EXP 	Created text_countdown = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_countdown', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+38.1477 	EXP 	window1: mouseVisible = True
+38.1500 	EXP 	Created fixation_cross_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation_cross_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+38.1502 	EXP 	window1: mouseVisible = True
+38.1511 	EXP 	Created word_one_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='word_one_2', opacity=1, ori=0.0, pos=array([-0.3,  0. ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+38.1512 	EXP 	window1: mouseVisible = True
+38.1521 	EXP 	Created word_two_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='word_two_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+38.1522 	EXP 	window1: mouseVisible = True
+38.1531 	EXP 	Created word_three_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='word_three_2', opacity=1, ori=0.0, pos=array([0.3, 0. ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+38.1532 	EXP 	window1: mouseVisible = True
+38.1583 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for participating. :)', units='height', win=Window(...), wrapWidth=1)
+0.0211 	INFO 	Keyboard events cleared
+0.0208 	EXP 	instruction_text: autoDraw = True
+1.7732 	EXP 	Imported stimwords.xlsx as conditions, 15 conditions, 5 params
+1.7740 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'stim1': 'dog', 'stim2': 'car', 'stim3': 'cat', 'correctAns': 2, 'difficulty': 'easy', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.7873 	DATA 	Keypress: space
+1.7960 	EXP 	instruction_text: autoDraw = False
+1.7960 	EXP 	fixation_cross: autoDraw = True
+2.2889 	INFO 	Keyboard events cleared
+2.2886 	EXP 	fixation_cross: autoDraw = False
+2.2886 	EXP 	word_one: height = 0.05
+2.2886 	EXP 	word_one: height = 0.05
+2.2886 	EXP 	word_one: height = 0.05
+2.2886 	EXP 	word_one: text = 'dog'
+2.2886 	EXP 	word_two: height = 0.05
+2.2886 	EXP 	word_two: height = 0.05
+2.2886 	EXP 	word_two: height = 0.05
+2.2886 	EXP 	word_two: text = 'car'
+2.2886 	EXP 	word_three: height = 0.05
+2.2886 	EXP 	word_three: height = 0.05
+2.2886 	EXP 	word_three: height = 0.05
+2.2886 	EXP 	word_three: text = 'cat'
+2.2886 	EXP 	word_one: autoDraw = True
+2.2886 	EXP 	word_two: autoDraw = True
+2.2886 	EXP 	word_three: autoDraw = True
+4.2465 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'stim1': 'apple', 'stim2': 'banana', 'stim3': 'pencil', 'correctAns': 3, 'difficulty': 'easy', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+4.2553 	EXP 	word_one: autoDraw = False
+4.2553 	EXP 	word_two: autoDraw = False
+4.2553 	EXP 	word_three: autoDraw = False
+4.2553 	EXP 	fixation_cross: autoDraw = True
+4.3169 	DATA 	Keypress: 2
+4.7561 	EXP 	fixation_cross: autoDraw = False
+4.7561 	EXP 	fixation_cross: autoDraw = False
+4.7561 	EXP 	word_one: height = 0.05
+4.7561 	EXP 	word_one: height = 0.05
+4.7561 	EXP 	word_one: height = 0.05
+4.7561 	EXP 	word_one: text = 'apple'
+4.7561 	EXP 	word_two: height = 0.05
+4.7561 	EXP 	word_two: height = 0.05
+4.7561 	EXP 	word_two: height = 0.05
+4.7561 	EXP 	word_two: text = 'banana'
+4.7561 	EXP 	word_three: height = 0.05
+4.7561 	EXP 	word_three: height = 0.05
+4.7561 	EXP 	word_three: height = 0.05
+4.7561 	EXP 	word_three: text = 'pencil'
+4.7731 	INFO 	Keyboard events cleared
+4.7727 	EXP 	word_one: autoDraw = True
+4.7727 	EXP 	word_two: autoDraw = True
+4.7727 	EXP 	word_three: autoDraw = True
+5.7399 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'stim1': 'rose', 'stim2': 'daisy', 'stim3': 'chair', 'correctAns': 3, 'difficulty': 'medium', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+5.7452 	EXP 	word_one: autoDraw = False
+5.7452 	EXP 	word_two: autoDraw = False
+5.7452 	EXP 	word_three: autoDraw = False
+5.7452 	EXP 	fixation_cross: autoDraw = True
+5.7478 	DATA 	Keypress: 3
+6.2483 	INFO 	Keyboard events cleared
+6.2480 	EXP 	fixation_cross: autoDraw = False
+6.2480 	EXP 	fixation_cross: autoDraw = False
+6.2480 	EXP 	word_one: height = 0.05
+6.2480 	EXP 	word_one: height = 0.05
+6.2480 	EXP 	word_one: height = 0.05
+6.2480 	EXP 	word_one: text = 'rose'
+6.2480 	EXP 	word_two: height = 0.05
+6.2480 	EXP 	word_two: height = 0.05
+6.2480 	EXP 	word_two: height = 0.05
+6.2480 	EXP 	word_two: text = 'daisy'
+6.2480 	EXP 	word_three: height = 0.05
+6.2480 	EXP 	word_three: height = 0.05
+6.2480 	EXP 	word_three: height = 0.05
+6.2480 	EXP 	word_three: text = 'chair'
+6.2480 	EXP 	word_one: autoDraw = True
+6.2480 	EXP 	word_two: autoDraw = True
+6.2480 	EXP 	word_three: autoDraw = True
+7.7895 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'stim1': 'car', 'stim2': 'bus', 'stim3': ' aeroplane', 'correctAns': 3, 'difficulty': 'medium', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+7.7950 	DATA 	Keypress: 3
+7.8026 	EXP 	word_one: autoDraw = False
+7.8026 	EXP 	word_two: autoDraw = False
+7.8026 	EXP 	word_three: autoDraw = False
+7.8026 	EXP 	fixation_cross: autoDraw = True
+8.3079 	INFO 	Keyboard events cleared
+8.3076 	EXP 	fixation_cross: autoDraw = False
+8.3076 	EXP 	fixation_cross: autoDraw = False
+8.3076 	EXP 	word_one: height = 0.05
+8.3076 	EXP 	word_one: height = 0.05
+8.3076 	EXP 	word_one: height = 0.05
+8.3076 	EXP 	word_one: text = 'car'
+8.3076 	EXP 	word_two: height = 0.05
+8.3076 	EXP 	word_two: height = 0.05
+8.3076 	EXP 	word_two: height = 0.05
+8.3076 	EXP 	word_two: text = 'bus'
+8.3076 	EXP 	word_three: height = 0.05
+8.3076 	EXP 	word_three: height = 0.05
+8.3076 	EXP 	word_three: height = 0.05
+8.3076 	EXP 	word_three: text = ' aeroplane'
+8.3076 	EXP 	word_one: autoDraw = True
+8.3076 	EXP 	word_two: autoDraw = True
+8.3076 	EXP 	word_three: autoDraw = True
+10.2728 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'stim1': 'sofa', 'stim2': 'table', 'stim3': 'lamp', 'correctAns': 3, 'difficulty': 'medium', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+10.2786 	EXP 	word_one: autoDraw = False
+10.2786 	EXP 	word_two: autoDraw = False
+10.2786 	EXP 	word_three: autoDraw = False
+10.2786 	EXP 	fixation_cross: autoDraw = True
+10.7777 	EXP 	fixation_cross: autoDraw = False
+10.7777 	EXP 	fixation_cross: autoDraw = False
+10.7777 	EXP 	word_one: height = 0.05
+10.7777 	EXP 	word_one: height = 0.05
+10.7777 	EXP 	word_one: height = 0.05
+10.7777 	EXP 	word_one: text = 'sofa'
+10.7777 	EXP 	word_two: height = 0.05
+10.7777 	EXP 	word_two: height = 0.05
+10.7777 	EXP 	word_two: height = 0.05
+10.7777 	EXP 	word_two: text = 'table'
+10.7777 	EXP 	word_three: height = 0.05
+10.7777 	EXP 	word_three: height = 0.05
+10.7777 	EXP 	word_three: height = 0.05
+10.7777 	EXP 	word_three: text = 'lamp'
+10.7889 	INFO 	Keyboard events cleared
+10.7887 	EXP 	word_one: autoDraw = True
+10.7887 	EXP 	word_two: autoDraw = True
+10.7887 	EXP 	word_three: autoDraw = True
+12.4247 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'stim1': 'sunflower', 'stim2': 'winter', 'stim3': 'rain', 'correctAns': 1, 'difficulty': 'easy', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+12.4275 	DATA 	Keypress: 2
+12.4349 	EXP 	word_one: autoDraw = False
+12.4349 	EXP 	word_two: autoDraw = False
+12.4349 	EXP 	word_three: autoDraw = False
+12.4349 	EXP 	fixation_cross: autoDraw = True
+12.9400 	INFO 	Keyboard events cleared
+12.9397 	EXP 	fixation_cross: autoDraw = False
+12.9397 	EXP 	fixation_cross: autoDraw = False
+12.9397 	EXP 	word_one: height = 0.05
+12.9397 	EXP 	word_one: height = 0.05
+12.9397 	EXP 	word_one: height = 0.05
+12.9397 	EXP 	word_one: text = 'sunflower'
+12.9397 	EXP 	word_two: height = 0.05
+12.9397 	EXP 	word_two: height = 0.05
+12.9397 	EXP 	word_two: height = 0.05
+12.9397 	EXP 	word_two: text = 'winter'
+12.9397 	EXP 	word_three: height = 0.05
+12.9397 	EXP 	word_three: height = 0.05
+12.9397 	EXP 	word_three: height = 0.05
+12.9397 	EXP 	word_three: text = 'rain'
+12.9397 	EXP 	word_one: autoDraw = True
+12.9397 	EXP 	word_two: autoDraw = True
+12.9397 	EXP 	word_three: autoDraw = True
+13.7400 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'stim1': 'cheetah', 'stim2': 'dolphin', 'stim3': 'leopard', 'correctAns': 2, 'difficulty': 'hard', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+13.7453 	EXP 	word_one: autoDraw = False
+13.7453 	EXP 	word_two: autoDraw = False
+13.7453 	EXP 	word_three: autoDraw = False
+13.7453 	EXP 	fixation_cross: autoDraw = True
+13.7480 	DATA 	Keypress: 1
+14.2496 	INFO 	Keyboard events cleared
+14.2493 	EXP 	fixation_cross: autoDraw = False
+14.2493 	EXP 	fixation_cross: autoDraw = False
+14.2493 	EXP 	word_one: height = 0.05
+14.2493 	EXP 	word_one: height = 0.05
+14.2493 	EXP 	word_one: height = 0.05
+14.2493 	EXP 	word_one: text = 'cheetah'
+14.2493 	EXP 	word_two: height = 0.05
+14.2493 	EXP 	word_two: height = 0.05
+14.2493 	EXP 	word_two: height = 0.05
+14.2493 	EXP 	word_two: text = 'dolphin'
+14.2493 	EXP 	word_three: height = 0.05
+14.2493 	EXP 	word_three: height = 0.05
+14.2493 	EXP 	word_three: height = 0.05
+14.2493 	EXP 	word_three: text = 'leopard'
+14.2493 	EXP 	word_one: autoDraw = True
+14.2493 	EXP 	word_two: autoDraw = True
+14.2493 	EXP 	word_three: autoDraw = True
+16.2235 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'stim1': 'bicycle', 'stim2': 'apple ', 'stim3': 'train', 'correctAns': 2, 'difficulty': 'easy', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+16.2295 	EXP 	word_one: autoDraw = False
+16.2295 	EXP 	word_two: autoDraw = False
+16.2295 	EXP 	word_three: autoDraw = False
+16.2295 	EXP 	fixation_cross: autoDraw = True
+16.7279 	EXP 	fixation_cross: autoDraw = False
+16.7279 	EXP 	fixation_cross: autoDraw = False
+16.7279 	EXP 	word_one: height = 0.05
+16.7279 	EXP 	word_one: height = 0.05
+16.7279 	EXP 	word_one: height = 0.05
+16.7279 	EXP 	word_one: text = 'bicycle'
+16.7279 	EXP 	word_two: height = 0.05
+16.7279 	EXP 	word_two: height = 0.05
+16.7279 	EXP 	word_two: height = 0.05
+16.7279 	EXP 	word_two: text = 'apple '
+16.7279 	EXP 	word_three: height = 0.05
+16.7279 	EXP 	word_three: height = 0.05
+16.7279 	EXP 	word_three: height = 0.05
+16.7279 	EXP 	word_three: text = 'train'
+16.7389 	INFO 	Keyboard events cleared
+16.7386 	EXP 	word_one: autoDraw = True
+16.7386 	EXP 	word_two: autoDraw = True
+16.7386 	EXP 	word_three: autoDraw = True
+18.4398 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'stim1': 'square', 'stim2': 'rectangle ', 'stim3': 'triangle', 'correctAns': 3, 'difficulty': 'medium', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+18.4421 	DATA 	Keypress: 3
+18.4494 	EXP 	word_one: autoDraw = False
+18.4494 	EXP 	word_two: autoDraw = False
+18.4494 	EXP 	word_three: autoDraw = False
+18.4494 	EXP 	fixation_cross: autoDraw = True
+18.9585 	INFO 	Keyboard events cleared
+18.9581 	EXP 	fixation_cross: autoDraw = False
+18.9581 	EXP 	fixation_cross: autoDraw = False
+18.9581 	EXP 	word_one: height = 0.05
+18.9581 	EXP 	word_one: height = 0.05
+18.9581 	EXP 	word_one: height = 0.05
+18.9581 	EXP 	word_one: text = 'square'
+18.9581 	EXP 	word_two: height = 0.05
+18.9581 	EXP 	word_two: height = 0.05
+18.9581 	EXP 	word_two: height = 0.05
+18.9581 	EXP 	word_two: text = 'rectangle '
+18.9581 	EXP 	word_three: height = 0.05
+18.9581 	EXP 	word_three: height = 0.05
+18.9581 	EXP 	word_three: height = 0.05
+18.9581 	EXP 	word_three: text = 'triangle'
+18.9581 	EXP 	word_one: autoDraw = True
+18.9581 	EXP 	word_two: autoDraw = True
+18.9581 	EXP 	word_three: autoDraw = True
+20.4061 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'stim1': 'trumpet ', 'stim2': 'flute', 'stim3': 'violin', 'correctAns': 3, 'difficulty': 'hard', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+20.4084 	DATA 	Keypress: 3
+20.4140 	EXP 	word_one: autoDraw = False
+20.4140 	EXP 	word_two: autoDraw = False
+20.4140 	EXP 	word_three: autoDraw = False
+20.4140 	EXP 	fixation_cross: autoDraw = True
+20.9241 	INFO 	Keyboard events cleared
+20.9238 	EXP 	fixation_cross: autoDraw = False
+20.9238 	EXP 	word_one: height = 0.05
+20.9238 	EXP 	word_one: height = 0.05
+20.9238 	EXP 	word_one: height = 0.05
+20.9238 	EXP 	word_one: text = 'trumpet '
+20.9238 	EXP 	word_two: height = 0.05
+20.9238 	EXP 	word_two: height = 0.05
+20.9238 	EXP 	word_two: height = 0.05
+20.9238 	EXP 	word_two: text = 'flute'
+20.9238 	EXP 	word_three: height = 0.05
+20.9238 	EXP 	word_three: height = 0.05
+20.9238 	EXP 	word_three: height = 0.05
+20.9238 	EXP 	word_three: text = 'violin'
+20.9238 	EXP 	word_one: autoDraw = True
+20.9238 	EXP 	word_two: autoDraw = True
+20.9238 	EXP 	word_three: autoDraw = True
+22.3801 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'stim1': 'cat', 'stim2': 'dog', 'stim3': 'lion', 'correctAns': 2, 'difficulty': 'hard', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+22.3882 	EXP 	word_one: autoDraw = False
+22.3882 	EXP 	word_two: autoDraw = False
+22.3882 	EXP 	word_three: autoDraw = False
+22.3882 	EXP 	fixation_cross: autoDraw = True
+22.3903 	DATA 	Keypress: 1
+22.8887 	INFO 	Keyboard events cleared
+22.8884 	EXP 	fixation_cross: autoDraw = False
+22.8884 	EXP 	fixation_cross: autoDraw = False
+22.8884 	EXP 	word_one: height = 0.05
+22.8884 	EXP 	word_one: height = 0.05
+22.8884 	EXP 	word_one: height = 0.05
+22.8884 	EXP 	word_one: text = 'cat'
+22.8884 	EXP 	word_two: height = 0.05
+22.8884 	EXP 	word_two: height = 0.05
+22.8884 	EXP 	word_two: height = 0.05
+22.8884 	EXP 	word_two: text = 'dog'
+22.8884 	EXP 	word_three: height = 0.05
+22.8884 	EXP 	word_three: height = 0.05
+22.8884 	EXP 	word_three: height = 0.05
+22.8884 	EXP 	word_three: text = 'lion'
+22.8884 	EXP 	word_one: autoDraw = True
+22.8884 	EXP 	word_two: autoDraw = True
+22.8884 	EXP 	word_three: autoDraw = True
+24.8726 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'stim1': 'fish', 'stim2': 'bird', 'stim3': 'shark', 'correctAns': 2, 'difficulty': 'medium', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+24.8785 	EXP 	word_one: autoDraw = False
+24.8785 	EXP 	word_two: autoDraw = False
+24.8785 	EXP 	word_three: autoDraw = False
+24.8785 	EXP 	word_one: autoDraw = False
+24.8785 	EXP 	word_two: autoDraw = False
+24.8785 	EXP 	word_three: autoDraw = False
+24.8785 	EXP 	fixation_cross: autoDraw = True
+25.3826 	INFO 	Keyboard events cleared
+25.3823 	EXP 	fixation_cross: autoDraw = False
+25.3823 	EXP 	fixation_cross: autoDraw = False
+25.3823 	EXP 	word_one: height = 0.05
+25.3823 	EXP 	word_one: height = 0.05
+25.3823 	EXP 	word_one: height = 0.05
+25.3823 	EXP 	word_one: text = 'fish'
+25.3823 	EXP 	word_two: height = 0.05
+25.3823 	EXP 	word_two: height = 0.05
+25.3823 	EXP 	word_two: height = 0.05
+25.3823 	EXP 	word_two: text = 'bird'
+25.3823 	EXP 	word_three: height = 0.05
+25.3823 	EXP 	word_three: height = 0.05
+25.3823 	EXP 	word_three: height = 0.05
+25.3823 	EXP 	word_three: text = 'shark'
+25.3823 	EXP 	word_one: autoDraw = True
+25.3823 	EXP 	word_two: autoDraw = True
+25.3823 	EXP 	word_three: autoDraw = True
+26.6897 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'stim1': 'sun', 'stim2': 'book', 'stim3': 'moon', 'correctAns': 2, 'difficulty': 'easy', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+26.6920 	DATA 	Keypress: 2
+26.6976 	EXP 	word_one: autoDraw = False
+26.6976 	EXP 	word_two: autoDraw = False
+26.6976 	EXP 	word_three: autoDraw = False
+26.6976 	EXP 	fixation_cross: autoDraw = True
+27.2051 	INFO 	Keyboard events cleared
+27.2048 	EXP 	fixation_cross: autoDraw = False
+27.2048 	EXP 	fixation_cross: autoDraw = False
+27.2048 	EXP 	word_one: height = 0.05
+27.2048 	EXP 	word_one: height = 0.05
+27.2048 	EXP 	word_one: height = 0.05
+27.2048 	EXP 	word_one: text = 'sun'
+27.2048 	EXP 	word_two: height = 0.05
+27.2048 	EXP 	word_two: height = 0.05
+27.2048 	EXP 	word_two: height = 0.05
+27.2048 	EXP 	word_two: text = 'book'
+27.2048 	EXP 	word_three: height = 0.05
+27.2048 	EXP 	word_three: height = 0.05
+27.2048 	EXP 	word_three: height = 0.05
+27.2048 	EXP 	word_three: text = 'moon'
+27.2048 	EXP 	word_one: autoDraw = True
+27.2048 	EXP 	word_two: autoDraw = True
+27.2048 	EXP 	word_three: autoDraw = True
+28.8226 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'stim1': 'pluto', 'stim2': 'earth', 'stim3': 'mars', 'correctAns': 1, 'difficulty': 'hard', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+28.8252 	DATA 	Keypress: 2
+28.8307 	EXP 	word_one: autoDraw = False
+28.8307 	EXP 	word_two: autoDraw = False
+28.8307 	EXP 	word_three: autoDraw = False
+28.8307 	EXP 	fixation_cross: autoDraw = True
+29.3389 	INFO 	Keyboard events cleared
+29.3386 	EXP 	fixation_cross: autoDraw = False
+29.3386 	EXP 	word_one: height = 0.05
+29.3386 	EXP 	word_one: height = 0.05
+29.3386 	EXP 	word_one: height = 0.05
+29.3386 	EXP 	word_one: text = 'pluto'
+29.3386 	EXP 	word_two: height = 0.05
+29.3386 	EXP 	word_two: height = 0.05
+29.3386 	EXP 	word_two: height = 0.05
+29.3386 	EXP 	word_two: text = 'earth'
+29.3386 	EXP 	word_three: height = 0.05
+29.3386 	EXP 	word_three: height = 0.05
+29.3386 	EXP 	word_three: height = 0.05
+29.3386 	EXP 	word_three: text = 'mars'
+29.3386 	EXP 	word_one: autoDraw = True
+29.3386 	EXP 	word_two: autoDraw = True
+29.3386 	EXP 	word_three: autoDraw = True
+31.3058 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'stim1': 'octopus ', 'stim2': 'penguin', 'stim3': 'squid', 'correctAns': 2, 'difficulty': 'hard', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+31.3116 	EXP 	word_one: autoDraw = False
+31.3116 	EXP 	word_two: autoDraw = False
+31.3116 	EXP 	word_three: autoDraw = False
+31.3116 	EXP 	fixation_cross: autoDraw = True
+31.8138 	EXP 	fixation_cross: autoDraw = False
+31.8138 	EXP 	fixation_cross: autoDraw = False
+31.8138 	EXP 	word_one: height = 0.05
+31.8138 	EXP 	word_one: height = 0.05
+31.8138 	EXP 	word_one: height = 0.05
+31.8138 	EXP 	word_one: text = 'octopus '
+31.8138 	EXP 	word_two: height = 0.05
+31.8138 	EXP 	word_two: height = 0.05
+31.8138 	EXP 	word_two: height = 0.05
+31.8138 	EXP 	word_two: text = 'penguin'
+31.8138 	EXP 	word_three: height = 0.05
+31.8138 	EXP 	word_three: height = 0.05
+31.8138 	EXP 	word_three: height = 0.05
+31.8138 	EXP 	word_three: text = 'squid'
+31.8383 	INFO 	Keyboard events cleared
+31.8381 	EXP 	word_one: autoDraw = True
+31.8381 	EXP 	word_two: autoDraw = True
+31.8381 	EXP 	word_three: autoDraw = True
+32.7658 	DATA 	Keypress: 2
+32.7884 	EXP 	word_one: autoDraw = False
+32.7884 	EXP 	word_two: autoDraw = False
+32.7884 	EXP 	word_three: autoDraw = False
+32.7884 	EXP 	text: autoDraw = True
+37.7891 	EXP 	text: autoDraw = False
+37.7891 	EXP 	text_countdown: autoDraw = True
+42.7883 	EXP 	Imported stimwords.xlsx as conditions, 15 conditions, 5 params
+42.7889 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'stim1': 'fish', 'stim2': 'bird', 'stim3': 'shark', 'correctAns': 2, 'difficulty': 'medium', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+42.7959 	EXP 	text_countdown: autoDraw = False
+42.7959 	EXP 	fixation_cross_2: autoDraw = True
+43.2836 	INFO 	Keyboard events cleared
+43.2833 	EXP 	fixation_cross_2: autoDraw = False
+43.2833 	EXP 	word_one_2: height = 0.05
+43.2833 	EXP 	word_one_2: height = 0.05
+43.2833 	EXP 	word_one_2: height = 0.05
+43.2833 	EXP 	word_one_2: text = 'fish'
+43.2833 	EXP 	word_two_2: height = 0.05
+43.2833 	EXP 	word_two_2: height = 0.05
+43.2833 	EXP 	word_two_2: height = 0.05
+43.2833 	EXP 	word_two_2: text = 'bird'
+43.2833 	EXP 	word_three_2: height = 0.05
+43.2833 	EXP 	word_three_2: height = 0.05
+43.2833 	EXP 	word_three_2: height = 0.05
+43.2833 	EXP 	word_three_2: text = 'shark'
+43.2833 	EXP 	word_one_2: autoDraw = True
+43.2833 	EXP 	word_two_2: autoDraw = True
+43.2833 	EXP 	word_three_2: autoDraw = True
+45.9064 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'stim1': 'pluto', 'stim2': 'earth', 'stim3': 'mars', 'correctAns': 1, 'difficulty': 'hard', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+45.9095 	DATA 	Keypress: 2
+45.9154 	EXP 	word_one_2: autoDraw = False
+45.9154 	EXP 	word_two_2: autoDraw = False
+45.9154 	EXP 	word_three_2: autoDraw = False
+45.9154 	EXP 	fixation_cross_2: autoDraw = True
+46.4233 	INFO 	Keyboard events cleared
+46.4229 	EXP 	fixation_cross_2: autoDraw = False
+46.4229 	EXP 	fixation_cross_2: autoDraw = False
+46.4229 	EXP 	word_one_2: height = 0.05
+46.4229 	EXP 	word_one_2: height = 0.05
+46.4229 	EXP 	word_one_2: height = 0.05
+46.4229 	EXP 	word_one_2: text = 'pluto'
+46.4229 	EXP 	word_two_2: height = 0.05
+46.4229 	EXP 	word_two_2: height = 0.05
+46.4229 	EXP 	word_two_2: height = 0.05
+46.4229 	EXP 	word_two_2: text = 'earth'
+46.4229 	EXP 	word_three_2: height = 0.05
+46.4229 	EXP 	word_three_2: height = 0.05
+46.4229 	EXP 	word_three_2: height = 0.05
+46.4229 	EXP 	word_three_2: text = 'mars'
+46.4229 	EXP 	word_one_2: autoDraw = True
+46.4229 	EXP 	word_two_2: autoDraw = True
+46.4229 	EXP 	word_three_2: autoDraw = True
+51.0560 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'stim1': 'cheetah', 'stim2': 'dolphin', 'stim3': 'leopard', 'correctAns': 2, 'difficulty': 'hard', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+51.0613 	EXP 	word_one_2: autoDraw = False
+51.0613 	EXP 	word_two_2: autoDraw = False
+51.0613 	EXP 	word_three_2: autoDraw = False
+51.0613 	EXP 	fixation_cross_2: autoDraw = True
+51.0640 	DATA 	Keypress: 2
+51.5649 	INFO 	Keyboard events cleared
+51.5646 	EXP 	fixation_cross_2: autoDraw = False
+51.5646 	EXP 	fixation_cross_2: autoDraw = False
+51.5646 	EXP 	word_one_2: height = 0.05
+51.5646 	EXP 	word_one_2: height = 0.05
+51.5646 	EXP 	word_one_2: height = 0.05
+51.5646 	EXP 	word_one_2: text = 'cheetah'
+51.5646 	EXP 	word_two_2: height = 0.05
+51.5646 	EXP 	word_two_2: height = 0.05
+51.5646 	EXP 	word_two_2: height = 0.05
+51.5646 	EXP 	word_two_2: text = 'dolphin'
+51.5646 	EXP 	word_three_2: height = 0.05
+51.5646 	EXP 	word_three_2: height = 0.05
+51.5646 	EXP 	word_three_2: height = 0.05
+51.5646 	EXP 	word_three_2: text = 'leopard'
+51.5646 	EXP 	word_one_2: autoDraw = True
+51.5646 	EXP 	word_two_2: autoDraw = True
+51.5646 	EXP 	word_three_2: autoDraw = True
+54.6226 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'stim1': 'octopus ', 'stim2': 'penguin', 'stim3': 'squid', 'correctAns': 2, 'difficulty': 'hard', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+54.6249 	DATA 	Keypress: 2
+54.6306 	EXP 	word_one_2: autoDraw = False
+54.6306 	EXP 	word_two_2: autoDraw = False
+54.6306 	EXP 	word_three_2: autoDraw = False
+54.6306 	EXP 	fixation_cross_2: autoDraw = True
+55.1398 	INFO 	Keyboard events cleared
+55.1395 	EXP 	fixation_cross_2: autoDraw = False
+55.1395 	EXP 	word_one_2: height = 0.05
+55.1395 	EXP 	word_one_2: height = 0.05
+55.1395 	EXP 	word_one_2: height = 0.05
+55.1395 	EXP 	word_one_2: text = 'octopus '
+55.1395 	EXP 	word_two_2: height = 0.05
+55.1395 	EXP 	word_two_2: height = 0.05
+55.1395 	EXP 	word_two_2: height = 0.05
+55.1395 	EXP 	word_two_2: text = 'penguin'
+55.1395 	EXP 	word_three_2: height = 0.05
+55.1395 	EXP 	word_three_2: height = 0.05
+55.1395 	EXP 	word_three_2: height = 0.05
+55.1395 	EXP 	word_three_2: text = 'squid'
+55.1395 	EXP 	word_one_2: autoDraw = True
+55.1395 	EXP 	word_two_2: autoDraw = True
+55.1395 	EXP 	word_three_2: autoDraw = True
+58.4125 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'stim1': 'trumpet ', 'stim2': 'flute', 'stim3': 'violin', 'correctAns': 3, 'difficulty': 'hard', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+58.4148 	DATA 	Keypress: 2
+58.4223 	EXP 	word_one_2: autoDraw = False
+58.4223 	EXP 	word_two_2: autoDraw = False
+58.4223 	EXP 	word_three_2: autoDraw = False
+58.4223 	EXP 	fixation_cross_2: autoDraw = True
+58.9234 	INFO 	Keyboard events cleared
+58.9230 	EXP 	fixation_cross_2: autoDraw = False
+58.9230 	EXP 	fixation_cross_2: autoDraw = False
+58.9230 	EXP 	word_one_2: height = 0.05
+58.9230 	EXP 	word_one_2: height = 0.05
+58.9230 	EXP 	word_one_2: height = 0.05
+58.9230 	EXP 	word_one_2: text = 'trumpet '
+58.9230 	EXP 	word_two_2: height = 0.05
+58.9230 	EXP 	word_two_2: height = 0.05
+58.9230 	EXP 	word_two_2: height = 0.05
+58.9230 	EXP 	word_two_2: text = 'flute'
+58.9230 	EXP 	word_three_2: height = 0.05
+58.9230 	EXP 	word_three_2: height = 0.05
+58.9230 	EXP 	word_three_2: height = 0.05
+58.9230 	EXP 	word_three_2: text = 'violin'
+58.9230 	EXP 	word_one_2: autoDraw = True
+58.9230 	EXP 	word_two_2: autoDraw = True
+58.9230 	EXP 	word_three_2: autoDraw = True
+62.6552 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'stim1': 'dog', 'stim2': 'car', 'stim3': 'cat', 'correctAns': 2, 'difficulty': 'easy', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+62.6575 	DATA 	Keypress: 3
+62.6631 	EXP 	word_one_2: autoDraw = False
+62.6631 	EXP 	word_two_2: autoDraw = False
+62.6631 	EXP 	word_three_2: autoDraw = False
+62.6631 	EXP 	fixation_cross_2: autoDraw = True
+63.1882 	INFO 	Keyboard events cleared
+63.1880 	EXP 	fixation_cross_2: autoDraw = False
+63.1880 	EXP 	word_one_2: height = 0.05
+63.1880 	EXP 	word_one_2: height = 0.05
+63.1880 	EXP 	word_one_2: height = 0.05
+63.1880 	EXP 	word_one_2: text = 'dog'
+63.1880 	EXP 	word_two_2: height = 0.05
+63.1880 	EXP 	word_two_2: height = 0.05
+63.1880 	EXP 	word_two_2: height = 0.05
+63.1880 	EXP 	word_two_2: text = 'car'
+63.1880 	EXP 	word_three_2: height = 0.05
+63.1880 	EXP 	word_three_2: height = 0.05
+63.1880 	EXP 	word_three_2: height = 0.05
+63.1880 	EXP 	word_three_2: text = 'cat'
+63.1880 	EXP 	word_one_2: autoDraw = True
+63.1880 	EXP 	word_two_2: autoDraw = True
+63.1880 	EXP 	word_three_2: autoDraw = True
+65.9560 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'stim1': 'sun', 'stim2': 'book', 'stim3': 'moon', 'correctAns': 2, 'difficulty': 'easy', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+65.9582 	DATA 	Keypress: 2
+65.9638 	EXP 	word_one_2: autoDraw = False
+65.9638 	EXP 	word_two_2: autoDraw = False
+65.9638 	EXP 	word_three_2: autoDraw = False
+65.9638 	EXP 	fixation_cross_2: autoDraw = True
+66.4726 	INFO 	Keyboard events cleared
+66.4721 	EXP 	fixation_cross_2: autoDraw = False
+66.4721 	EXP 	fixation_cross_2: autoDraw = False
+66.4721 	EXP 	word_one_2: height = 0.05
+66.4721 	EXP 	word_one_2: height = 0.05
+66.4721 	EXP 	word_one_2: height = 0.05
+66.4721 	EXP 	word_one_2: text = 'sun'
+66.4721 	EXP 	word_two_2: height = 0.05
+66.4721 	EXP 	word_two_2: height = 0.05
+66.4721 	EXP 	word_two_2: height = 0.05
+66.4721 	EXP 	word_two_2: text = 'book'
+66.4721 	EXP 	word_three_2: height = 0.05
+66.4721 	EXP 	word_three_2: height = 0.05
+66.4721 	EXP 	word_three_2: height = 0.05
+66.4721 	EXP 	word_three_2: text = 'moon'
+66.4721 	EXP 	word_one_2: autoDraw = True
+66.4721 	EXP 	word_two_2: autoDraw = True
+66.4721 	EXP 	word_three_2: autoDraw = True
+69.7225 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'stim1': 'sunflower', 'stim2': 'winter', 'stim3': 'rain', 'correctAns': 1, 'difficulty': 'easy', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+69.7248 	DATA 	Keypress: 2
+69.7304 	EXP 	word_one_2: autoDraw = False
+69.7304 	EXP 	word_two_2: autoDraw = False
+69.7304 	EXP 	word_three_2: autoDraw = False
+69.7304 	EXP 	fixation_cross_2: autoDraw = True
+70.2401 	INFO 	Keyboard events cleared
+70.2398 	EXP 	fixation_cross_2: autoDraw = False
+70.2398 	EXP 	fixation_cross_2: autoDraw = False
+70.2398 	EXP 	word_one_2: height = 0.05
+70.2398 	EXP 	word_one_2: height = 0.05
+70.2398 	EXP 	word_one_2: height = 0.05
+70.2398 	EXP 	word_one_2: text = 'sunflower'
+70.2398 	EXP 	word_two_2: height = 0.05
+70.2398 	EXP 	word_two_2: height = 0.05
+70.2398 	EXP 	word_two_2: height = 0.05
+70.2398 	EXP 	word_two_2: text = 'winter'
+70.2398 	EXP 	word_three_2: height = 0.05
+70.2398 	EXP 	word_three_2: height = 0.05
+70.2398 	EXP 	word_three_2: height = 0.05
+70.2398 	EXP 	word_three_2: text = 'rain'
+70.2398 	EXP 	word_one_2: autoDraw = True
+70.2398 	EXP 	word_two_2: autoDraw = True
+70.2398 	EXP 	word_three_2: autoDraw = True
+72.8299 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'stim1': 'apple', 'stim2': 'banana', 'stim3': 'pencil', 'correctAns': 3, 'difficulty': 'easy', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+72.8337 	DATA 	Keypress: 1
+72.8398 	EXP 	word_one_2: autoDraw = False
+72.8398 	EXP 	word_two_2: autoDraw = False
+72.8398 	EXP 	word_three_2: autoDraw = False
+72.8398 	EXP 	fixation_cross_2: autoDraw = True
+73.3527 	INFO 	Keyboard events cleared
+73.3524 	EXP 	fixation_cross_2: autoDraw = False
+73.3524 	EXP 	word_one_2: height = 0.05
+73.3524 	EXP 	word_one_2: height = 0.05
+73.3524 	EXP 	word_one_2: height = 0.05
+73.3524 	EXP 	word_one_2: text = 'apple'
+73.3524 	EXP 	word_two_2: height = 0.05
+73.3524 	EXP 	word_two_2: height = 0.05
+73.3524 	EXP 	word_two_2: height = 0.05
+73.3524 	EXP 	word_two_2: text = 'banana'
+73.3524 	EXP 	word_three_2: height = 0.05
+73.3524 	EXP 	word_three_2: height = 0.05
+73.3524 	EXP 	word_three_2: height = 0.05
+73.3524 	EXP 	word_three_2: text = 'pencil'
+73.3524 	EXP 	word_one_2: autoDraw = True
+73.3524 	EXP 	word_two_2: autoDraw = True
+73.3524 	EXP 	word_three_2: autoDraw = True
+75.8236 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'stim1': 'square', 'stim2': 'rectangle ', 'stim3': 'triangle', 'correctAns': 3, 'difficulty': 'medium', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+75.8260 	DATA 	Keypress: 3
+75.8317 	EXP 	word_one_2: autoDraw = False
+75.8317 	EXP 	word_two_2: autoDraw = False
+75.8317 	EXP 	word_three_2: autoDraw = False
+75.8317 	EXP 	fixation_cross_2: autoDraw = True
+76.3401 	INFO 	Keyboard events cleared
+76.3398 	EXP 	fixation_cross_2: autoDraw = False
+76.3398 	EXP 	fixation_cross_2: autoDraw = False
+76.3398 	EXP 	word_one_2: height = 0.05
+76.3398 	EXP 	word_one_2: height = 0.05
+76.3398 	EXP 	word_one_2: height = 0.05
+76.3398 	EXP 	word_one_2: text = 'square'
+76.3398 	EXP 	word_two_2: height = 0.05
+76.3398 	EXP 	word_two_2: height = 0.05
+76.3398 	EXP 	word_two_2: height = 0.05
+76.3398 	EXP 	word_two_2: text = 'rectangle '
+76.3398 	EXP 	word_three_2: height = 0.05
+76.3398 	EXP 	word_three_2: height = 0.05
+76.3398 	EXP 	word_three_2: height = 0.05
+76.3398 	EXP 	word_three_2: text = 'triangle'
+76.3398 	EXP 	word_one_2: autoDraw = True
+76.3398 	EXP 	word_two_2: autoDraw = True
+76.3398 	EXP 	word_three_2: autoDraw = True
+82.8724 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'stim1': 'sofa', 'stim2': 'table', 'stim3': 'lamp', 'correctAns': 3, 'difficulty': 'medium', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+82.8790 	EXP 	word_one_2: autoDraw = False
+82.8790 	EXP 	word_two_2: autoDraw = False
+82.8790 	EXP 	word_three_2: autoDraw = False
+82.8790 	EXP 	fixation_cross_2: autoDraw = True
+82.8821 	DATA 	Keypress: 3
+83.3807 	INFO 	Keyboard events cleared
+83.3804 	EXP 	fixation_cross_2: autoDraw = False
+83.3804 	EXP 	fixation_cross_2: autoDraw = False
+83.3804 	EXP 	word_one_2: height = 0.05
+83.3804 	EXP 	word_one_2: height = 0.05
+83.3804 	EXP 	word_one_2: height = 0.05
+83.3804 	EXP 	word_one_2: text = 'sofa'
+83.3804 	EXP 	word_two_2: height = 0.05
+83.3804 	EXP 	word_two_2: height = 0.05
+83.3804 	EXP 	word_two_2: height = 0.05
+83.3804 	EXP 	word_two_2: text = 'table'
+83.3804 	EXP 	word_three_2: height = 0.05
+83.3804 	EXP 	word_three_2: height = 0.05
+83.3804 	EXP 	word_three_2: height = 0.05
+83.3804 	EXP 	word_three_2: text = 'lamp'
+83.3804 	EXP 	word_one_2: autoDraw = True
+83.3804 	EXP 	word_two_2: autoDraw = True
+83.3804 	EXP 	word_three_2: autoDraw = True
+88.5885 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'stim1': 'car', 'stim2': 'bus', 'stim3': ' aeroplane', 'correctAns': 3, 'difficulty': 'medium', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+88.5907 	DATA 	Keypress: 2
+88.5974 	EXP 	word_one_2: autoDraw = False
+88.5974 	EXP 	word_two_2: autoDraw = False
+88.5974 	EXP 	word_three_2: autoDraw = False
+88.5974 	EXP 	fixation_cross_2: autoDraw = True
+89.1038 	INFO 	Keyboard events cleared
+89.1035 	EXP 	fixation_cross_2: autoDraw = False
+89.1035 	EXP 	fixation_cross_2: autoDraw = False
+89.1035 	EXP 	word_one_2: height = 0.05
+89.1035 	EXP 	word_one_2: height = 0.05
+89.1035 	EXP 	word_one_2: height = 0.05
+89.1035 	EXP 	word_one_2: text = 'car'
+89.1035 	EXP 	word_two_2: height = 0.05
+89.1035 	EXP 	word_two_2: height = 0.05
+89.1035 	EXP 	word_two_2: height = 0.05
+89.1035 	EXP 	word_two_2: text = 'bus'
+89.1035 	EXP 	word_three_2: height = 0.05
+89.1035 	EXP 	word_three_2: height = 0.05
+89.1035 	EXP 	word_three_2: height = 0.05
+89.1035 	EXP 	word_three_2: text = ' aeroplane'
+89.1035 	EXP 	word_one_2: autoDraw = True
+89.1035 	EXP 	word_two_2: autoDraw = True
+89.1035 	EXP 	word_three_2: autoDraw = True
+94.2720 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'stim1': 'cat', 'stim2': 'dog', 'stim3': 'lion', 'correctAns': 2, 'difficulty': 'hard', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+94.2752 	DATA 	Keypress: 3
+94.2812 	EXP 	word_one_2: autoDraw = False
+94.2812 	EXP 	word_two_2: autoDraw = False
+94.2812 	EXP 	word_three_2: autoDraw = False
+94.2812 	EXP 	fixation_cross_2: autoDraw = True
+94.7864 	INFO 	Keyboard events cleared
+94.7861 	EXP 	fixation_cross_2: autoDraw = False
+94.7861 	EXP 	fixation_cross_2: autoDraw = False
+94.7861 	EXP 	word_one_2: height = 0.05
+94.7861 	EXP 	word_one_2: height = 0.05
+94.7861 	EXP 	word_one_2: height = 0.05
+94.7861 	EXP 	word_one_2: text = 'cat'
+94.7861 	EXP 	word_two_2: height = 0.05
+94.7861 	EXP 	word_two_2: height = 0.05
+94.7861 	EXP 	word_two_2: height = 0.05
+94.7861 	EXP 	word_two_2: text = 'dog'
+94.7861 	EXP 	word_three_2: height = 0.05
+94.7861 	EXP 	word_three_2: height = 0.05
+94.7861 	EXP 	word_three_2: height = 0.05
+94.7861 	EXP 	word_three_2: text = 'lion'
+94.7861 	EXP 	word_one_2: autoDraw = True
+94.7861 	EXP 	word_two_2: autoDraw = True
+94.7861 	EXP 	word_three_2: autoDraw = True
+100.4220 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'stim1': 'bicycle', 'stim2': 'apple ', 'stim3': 'train', 'correctAns': 2, 'difficulty': 'easy', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+100.4243 	DATA 	Keypress: 2
+100.4299 	EXP 	word_one_2: autoDraw = False
+100.4299 	EXP 	word_two_2: autoDraw = False
+100.4299 	EXP 	word_three_2: autoDraw = False
+100.4299 	EXP 	fixation_cross_2: autoDraw = True
+100.9381 	INFO 	Keyboard events cleared
+100.9378 	EXP 	fixation_cross_2: autoDraw = False
+100.9378 	EXP 	fixation_cross_2: autoDraw = False
+100.9378 	EXP 	word_one_2: height = 0.05
+100.9378 	EXP 	word_one_2: height = 0.05
+100.9378 	EXP 	word_one_2: height = 0.05
+100.9378 	EXP 	word_one_2: text = 'bicycle'
+100.9378 	EXP 	word_two_2: height = 0.05
+100.9378 	EXP 	word_two_2: height = 0.05
+100.9378 	EXP 	word_two_2: height = 0.05
+100.9378 	EXP 	word_two_2: text = 'apple '
+100.9378 	EXP 	word_three_2: height = 0.05
+100.9378 	EXP 	word_three_2: height = 0.05
+100.9378 	EXP 	word_three_2: height = 0.05
+100.9378 	EXP 	word_three_2: text = 'train'
+100.9378 	EXP 	word_one_2: autoDraw = True
+100.9378 	EXP 	word_two_2: autoDraw = True
+100.9378 	EXP 	word_three_2: autoDraw = True
+105.5053 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'stim1': 'rose', 'stim2': 'daisy', 'stim3': 'chair', 'correctAns': 3, 'difficulty': 'medium', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+105.5077 	DATA 	Keypress: 2
+105.5156 	EXP 	word_one_2: autoDraw = False
+105.5156 	EXP 	word_two_2: autoDraw = False
+105.5156 	EXP 	word_three_2: autoDraw = False
+105.5156 	EXP 	fixation_cross_2: autoDraw = True
+106.0213 	INFO 	Keyboard events cleared
+106.0210 	EXP 	fixation_cross_2: autoDraw = False
+106.0210 	EXP 	fixation_cross_2: autoDraw = False
+106.0210 	EXP 	word_one_2: height = 0.05
+106.0210 	EXP 	word_one_2: height = 0.05
+106.0210 	EXP 	word_one_2: height = 0.05
+106.0210 	EXP 	word_one_2: text = 'rose'
+106.0210 	EXP 	word_two_2: height = 0.05
+106.0210 	EXP 	word_two_2: height = 0.05
+106.0210 	EXP 	word_two_2: height = 0.05
+106.0210 	EXP 	word_two_2: text = 'daisy'
+106.0210 	EXP 	word_three_2: height = 0.05
+106.0210 	EXP 	word_three_2: height = 0.05
+106.0210 	EXP 	word_three_2: height = 0.05
+106.0210 	EXP 	word_three_2: text = 'chair'
+106.0210 	EXP 	word_one_2: autoDraw = True
+106.0210 	EXP 	word_two_2: autoDraw = True
+106.0210 	EXP 	word_three_2: autoDraw = True
+107.0760 	DATA 	Keypress: 3
+107.0822 	EXP 	word_one_2: autoDraw = False
+107.0822 	EXP 	word_two_2: autoDraw = False
+107.0822 	EXP 	word_three_2: autoDraw = False
+107.0822 	EXP 	text_2: autoDraw = True
+109.0761 	EXP 	text_2: autoDraw = False
+109.0761 	EXP 	text_2: autoDraw = False
+109.0763 	EXP 	OddOneOut_Experiment: status = STOPPED
+109.1008 	INFO 	saved data to '/Users/purvajhunjhunwala/Desktop/solo project/data/009781_OddOneOut_Experiment_2024-12-06_11h05.38.061.csv'
+109.1025 	INFO 	saved data to /Users/purvajhunjhunwala/Desktop/solo project/data/009781_OddOneOut_Experiment_2024-12-06_11h05.38.061.psydat
+109.6814 	EXP 	window1: mouseVisible = True
+109.7058 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+109.7059 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+109.7060 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+109.7060 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
